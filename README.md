@@ -44,16 +44,14 @@ IPL_Data_Analysis/
 │
 ├── 01_data_exploration.ipynb       ← full analysis (all 6 phases)
 │
-├── data/
-│   └── processed/
-│       ├── deliveries_clean.csv
-│       ├── matches_clean.csv
-│       ├── auction_2024_clean.csv
-│       ├── auction_hist_clean.csv
-│       ├── final_player_features.csv
-│       ├── final_with_predictions.csv
-│       ├── franchise_roi.csv
-│       └── player_valuation.csv
+├── auction_2024_clean.csv          ← cleaned auction data
+├── auction_hist_clean.csv          ← historical auction data
+├── matches_clean.csv               ← cleaned match data
+├── final_player_features.csv       ← player stats + value index
+├── final_sold_players.csv          ← only sold players
+├── final_with_predictions.csv      ← ML model predictions
+├── franchise_roi.csv               ← franchise RoI analysis
+├── player_valuation.csv            ← overvalued/undervalued players
 │
 ├── chart1_franchise_roi.png
 ├── chart2_player_value_index.png
@@ -161,16 +159,13 @@ git clone https://github.com/shyam-0121/IPL_Data_Analysis.git
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost openpyxl
 
-# 3. Download datasets from Kaggle and place in root folder
+# 3. Download raw datasets from Kaggle and place in root folder
 #    - deliveries_updated_mens_ipl_upto_2024.csv
 #    - matches_updated_mens_ipl_upto_2024.csv
 #    - IPL_2024_Players_Auction_Dataset.csv
 #    - IPLPlayerAuctionData.csv
 
-# 4. Create the processed folder
-mkdir -p data/processed
-
-# 5. Open and run the notebook
+# 4. Open and run the notebook
 jupyter notebook 01_data_exploration.ipynb
 ```
 
