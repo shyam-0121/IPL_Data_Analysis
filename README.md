@@ -43,6 +43,8 @@ Matplotlib    Seaborn
 IPL_Data_Analysis/
 │
 ├── 01_data_exploration.ipynb       ← full analysis (all 6 phases)
+├── README.md
+├── .gitignore
 │
 ├── auction_2024_clean.csv          ← cleaned auction data
 ├── auction_hist_clean.csv          ← historical auction data
