@@ -1,0 +1,11 @@
+team,players_bought,total_spent_cr,avg_price_cr,max_spend_cr,avg_value_index,roi_per_crore
+Mumbai Indians,8,16.7,2.09,5.0,4.03,1.93
+Punjab Kings,8,24.95,3.12,11.75,5.29,1.7
+Chennai Super Kings,6,30.4,5.07,14.0,3.1,0.61
+Lucknow Super Giants,6,12.2,2.03,6.4,1.15,0.56
+Kolkata Night Riders,10,31.35,3.14,24.75,1.52,0.48
+Royal Challengers Banglore,6,20.4,3.4,11.5,1.43,0.42
+Gujrat Titans,8,30.3,3.79,10.0,1.35,0.36
+Delhi Capitals,9,19.05,2.12,7.2,0.31,0.15
+Sunrisers Hyderabad,6,30.8,5.13,20.5,0.07,0.01
+Rajasthan Royals,5,14.3,2.86,7.4,0.0,0.0

@@ -1,0 +1,676 @@
+player,role,sold_price_cr,2023_squad,team,base_price_cr,status,role_enc,origin_enc,team_enc,year,total_runs,strike_rate,batting_avg,wickets,economy_rate,value_index,predicted_price_cr,value_gap,valuation
+Spencer Johnson,BOWLER,10.0,Not Mentioned,Gujrat Titans,0.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,8.15,OVERVALUED
+Shahrukh Khan,ALL-ROUNDER,7.4,PBKS,Gujrat Titans,0.4,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,5.55,OVERVALUED
+Umesh Yadav,BOWLER,5.8,KKR,Gujrat Titans,2.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,3.95,OVERVALUED
+Robin Minz,WICKETKEEPER,3.6,Not Mentioned,Gujrat Titans,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,1.75,FAIR
+Sushant Mishra,BOWLER,2.2,Not Mentioned,Gujrat Titans,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,0.35,FAIR
+Kartik Tyagi,BOWLER,0.6,SRH,Gujrat Titans,0.2,sold,0,0,0,2024,13.0,81.25,2.1666666666666665,16.0,8.842794759825328,2.4580181657104254,2.26,-1.66,FAIR
+Azmatullah Omarzai,ALL-ROUNDER,0.5,Not Mentioned,Gujrat Titans,0.5,sold,0,0,0,2024,42.0,123.52941176470588,10.5,4.0,8.290076335877863,8.329099595336652,0.31,0.19,FAIR
+Manav Suthar,BOWLER,0.2,Not Mentioned,Gujrat Titans,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.65,FAIR
+David Miller,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shubman Gill,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,3216.0,132.23684210526315,32.484848484848484,0.0,0.0,26.526653461286823,9.84,-9.84,UNDERVALUED
+Matthew Wade,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Wriddhiman Saha,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kane Williamson,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abhinav Manohar,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+B. Sai Sudharsan,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Darshan Nalkande,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vijay Shankar,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jayant Yadav,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahul Tewatia,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohammed Shami,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,74.0,90.2439024390244,3.217391304347826,144.0,7.820706069020231,24.603557074186856,0.4,-0.4,FAIR
+Noor Ahmad,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,13.0,72.22222222222221,2.6,24.0,7.450292397660819,4.428163923937175,0.0,0.0,FAIR
+R. Sai Kishore,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rashid Khan,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,545.0,153.52112676056336,9.39655172413793,157.0,6.6639089968976215,36.561797401895845,3.2,-3.2,UNDERVALUED
+Joshua Little,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohit Sharma,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Daryl Mitchell,ALL-ROUNDER,14.0,Not Mentioned,Chennai Super Kings,1.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,12.15,OVERVALUED
+Sameer Rizvi,BATTER,8.4,Not Mentioned,Chennai Super Kings,0.2,sold,0,0,0,2024,51.0,118.6046511627907,10.2,0.0,0.0,7.47052358552776,1.11,7.29,OVERVALUED
+Shardul Thakur,ALL-ROUNDER,4.0,KKR,Chennai Super Kings,2.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,2.15,OVERVALUED
+Mustafizur Rahman,BOWLER,2.0,DC,Chennai Super Kings,2.0,sold,0,0,0,2024,13.0,56.52173913043478,2.1666666666666665,70.0,7.552106430155211,11.156888696523817,3.06,-1.06,FAIR
+Rachin Ravindra,ALL-ROUNDER,1.8,Not Mentioned,Chennai Super Kings,0.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-0.05,FAIR
+Avanish Rao Aravelly,WICKETKEEPER,0.2,Not Mentioned,Chennai Super Kings,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.65,FAIR
+MS Dhoni,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,5243.0,132.8350646060299,22.99561403508772,0.0,0.0,18.86283174849452,12.51,-12.51,UNDERVALUED
+Moeen Ali,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Deepak Chahar,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Devon Conway,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tushar Deshpande,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shivam Dube,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ruturaj Gaikwad,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajvardhan Hangargekar,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravindra Jadeja,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ajay Mandal,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mukesh Choudhary,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,6.0,100.0,3.0,16.0,8.697986577181208,3.994630686485027,0.01,-0.01,FAIR
+Matheesha Pathirana,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ajinkya Rahane,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shaik Rasheed,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mitchell Santner,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Simarjeet Singh,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,7.0,87.5,2.3333333333333335,10.0,7.523316062176166,2.75446611921539,0.16,-0.16,FAIR
+Nishant Sindhu,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prashant Solanki,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Maheesh Theekshana,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kumar Kushagra,WICKETKEEPER,7.2,Not Mentioned,Delhi Capitals,0.2,sold,0,0,1,2024,3.0,42.857142857142854,1.0,0.0,0.0,0.26465028355387515,1.26,5.94,OVERVALUED
+Jhye Richardson,BOWLER,5.0,Not Mentioned,Delhi Capitals,1.5,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,3.39,OVERVALUED
+Harry Brook,BATTER,4.0,SRH,Delhi Capitals,2.0,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,2.39,OVERVALUED
+Sumit Kumar,ALL-ROUNDER,1.0,Not Mentioned,Delhi Capitals,0.2,sold,0,0,1,2024,18.0,69.23076923076923,6.0,0.0,9.818181818181818,2.565071979060636,0.49,0.51,FAIR
+Shai Hope,WICKETKEEPER,0.75,Not Mentioned,Delhi Capitals,0.75,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-0.86,FAIR
+Tristan Stubbs,WICKETKEEPER,0.5,MI,Delhi Capitals,0.5,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.11,FAIR
+Ricky Bhui,WICKETKEEPER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.41,FAIR
+Rasikh Dar,BOWLER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.41,FAIR
+Swastik Chhikara,BATTER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.41,FAIR
+Rishabh Pant,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Pravin Dubey,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+David Warner,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Vicky Ostwal,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Prithvi Shaw,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Anrich Nortje,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Abishek Porel,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,360.0,147.54098360655738,22.5,0.0,0.0,20.499550652328853,0.48,-0.48,FAIR
+Kuldeep Yadav,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,183.0,81.69642857142857,5.71875,90.0,7.8577827547592385,15.403022663172369,5.44,-5.44,UNDERVALUED
+Axar Patel,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Lungi Ngidi,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Lalit Yadav,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,305.0,101.32890365448506,14.523809523809524,11.0,8.551020408163264,10.13176942975934,0.49,-0.49,FAIR
+Khaleel Ahmed,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Mitchell Marsh,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Ishant Sharma,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Yash Dhull,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.61,-1.61,FAIR
+Mukesh Kumar,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0,0,1,2024,10.0,50.0,2.0,31.0,9.614285714285714,5.7791551506010865,2.46,-2.46,UNDERVALUED
+Mitchell Starc,BOWLER,24.75,Not Mentioned,Kolkata Night Riders,2.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,22.9,OVERVALUED
+Mujeeb Rahman,BOWLER,2.0,Not Mentioned,Kolkata Night Riders,2.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,0.15,FAIR
+Sherfane Rutherford,BATTER,1.5,Not Mentioned,Kolkata Night Riders,1.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-0.35,FAIR
+Gus Atkinson,BOWLER,1.0,Not Mentioned,Kolkata Night Riders,1.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-0.85,FAIR
+Manish Pandey,BATTER,0.5,DC,Kolkata Night Riders,0.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.35,FAIR
+K.S. Bharat,WICKETKEEPER,0.5,GT,Kolkata Night Riders,0.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.35,FAIR
+Chetan Sakariya,BOWLER,0.5,DC,Kolkata Night Riders,0.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.35,FAIR
+Angkrish Raghuvanshi,BATTER,0.2,Not Mentioned,Kolkata Night Riders,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.65,FAIR
+Ramandeep Singh,ALL-ROUNDER,0.2,MI,Kolkata Night Riders,0.2,sold,0,0,0,2024,170.0,160.37735849056605,13.076923076923077,6.0,7.733333333333334,15.194477892381919,5.12,-4.92,UNDERVALUED
+Sakib Hussain,BOWLER,0.2,Not Mentioned,Kolkata Night Riders,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.65,FAIR
+Nitish Rana,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rinku Singh,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahmanullah Gurbaz,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,289.0,126.75438596491229,22.23076923076923,0.0,0.0,17.40069661818741,1.05,-1.05,FAIR
+Shreyas Iyer,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jason Roy,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sunil Narine,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Suyash Sharma,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,11.0,8.318181818181818,1.19504288219826,0.17,-0.17,FAIR
+Anukul Roy,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Andre Russell,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Venkatesh Iyer,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Harshit Rana,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,2.0,66.66666666666666,0.6666666666666666,27.0,8.38213399503722,4.955017763552961,0.0,0.0,FAIR
+Vaibhav Arora,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Varun Chakaravarthy,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Harshal Patel,ALL-ROUNDER,11.75,RCB,Punjab Kings,2.0,sold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,9.93,OVERVALUED
+Rilee Rossouw,BATTER,8.0,DC,Punjab Kings,2.0,sold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,6.18,OVERVALUED
+Chris Woakes,ALL-ROUNDER,4.2,Not Mentioned,Punjab Kings,2.0,sold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,2.38,OVERVALUED
+Ashutosh Sharma,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0,0,10,2024,189.0,160.16949152542372,21.0,0.0,0.0,20.770561660952865,5.2,-5.0,UNDERVALUED
+Vishwanath Pratap Singh,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.62,FAIR
+Shashank Singh,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0,0,10,2024,423.0,155.51470588235296,22.263157894736842,1.0,7.578947368421052,21.53059904841781,0.86,-0.66,FAIR
+Tanay Thyagarajann,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.62,FAIR
+Prince Choudhary,BOWLER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.62,FAIR
+Shikhar Dhawan,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Liam Livingstone,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Jonny Bairstow,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Gurnoor Singh Brar,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Jitesh Sharma,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Shivam Singh,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,2.0,66.66666666666666,2.0,0.0,0.0,0.823356437723167,1.49,-1.49,FAIR
+Rahul Chahar,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Prabhsimran Singh,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Matthew Short,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Arshdeep Singh,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,29.0,69.04761904761905,2.6363636363636362,84.0,8.08534067446662,14.150515774266909,3.02,-3.02,UNDERVALUED
+Harpreet Bhatia,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Harpreet Brar,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,233.0,115.92039800995025,9.708333333333334,25.0,7.586705202312139,9.531471985366293,0.52,-0.52,FAIR
+Atharva Taide,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,247.0,139.54802259887003,27.444444444444443,0.0,24.0,23.649789505203714,0.26,-0.26,FAIR
+Vidwath Kaverappa,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Rishi Dhawan,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Kagiso Rabada,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Sam Curran,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Nathan Ellis,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.82,-1.82,FAIR
+Sikandar Raza,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0,0,10,2024,182.0,127.27272727272727,20.22222222222222,3.0,9.068181818181818,16.13788193884861,0.32,-0.32,FAIR
+Devdutt Padikkal,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Shivam Mavi,BOWLER,6.4,GT,Lucknow Super Giants,0.5,sold,0,0,7,2024,51.0,87.93103448275862,4.636363636363637,33.0,7.886462882096071,6.8768220552519965,5.64,0.76,FAIR
+M. Siddharth,BOWLER,2.4,Not Mentioned,Lucknow Super Giants,0.2,sold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,0.7,FAIR
+David Willey,ALL-ROUNDER,2.0,RCB,Lucknow Super Giants,2.0,sold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,0.3,FAIR
+Ashton Turner,BATTER,1.0,Not Mentioned,Lucknow Super Giants,1.0,sold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-0.7,FAIR
+Mohd. Arshad Khan,ALL-ROUNDER,0.2,MI,Lucknow Super Giants,0.2,sold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.5,FAIR
+Arshin Kulkarni,ALL-ROUNDER,0.2,Not Mentioned,Lucknow Super Giants,0.2,sold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.5,FAIR
+KL Rahul,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,4689.0,131.05086640581328,38.4344262295082,0.0,0.0,31.103513295800987,14.41,-14.41,UNDERVALUED
+Quinton de Kock,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Nicholas Pooran,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Ayush Badoni,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Kyle Mayers,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Marcus Stoinis,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Deepak Hooda,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Ravi Bishnoi,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,32.0,61.53846153846154,2.2857142857142856,68.0,7.331506849315069,10.237788688445814,3.77,-3.77,UNDERVALUED
+Naveen-ul-Haq,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,18.0,69.23076923076923,4.5,26.0,8.417690417690418,6.203272073365902,0.24,-0.24,FAIR
+Krunal Pandya,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Yudhvir Singh,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,22.0,137.5,5.5,4.0,9.405405405405405,5.168562079206032,0.58,-0.58,FAIR
+Prerak Mankad,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Yash Thakur,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,27.0,9.208333333333334,3.9745979528420343,0.0,0.0,FAIR
+Amit Mishra,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Mark Wood,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Mayank Yadav,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.7,-1.7,FAIR
+Mohsin Khan,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0,0,7,2024,25.0,92.5925925925926,5.0,27.0,7.846153846153847,6.833474472714142,0.63,-0.63,FAIR
+Hardik Pandya,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Romario Shepherd,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Gerald Coetzee,ALL-ROUNDER,5.0,Not Mentioned,Mumbai Indians,2.0,sold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,3.7,OVERVALUED
+Nuwan Thushara,BOWLER,4.8,Not Mentioned,Mumbai Indians,0.5,sold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,3.5,OVERVALUED
+Mohammad Nabi,ALL-ROUNDER,1.5,Not Mentioned,Mumbai Indians,1.5,sold,0,0,8,2024,221.0,140.76433121019107,11.631578947368421,15.0,7.360381861575179,11.693017424048017,0.0,1.5,FAIR
+Shreyas Gopal,BOWLER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.1,FAIR
+Naman Dhir,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0,0,8,2024,140.0,166.66666666666669,20.0,0.0,11.172413793103448,20.583910943079186,4.45,-4.25,UNDERVALUED
+Anshul Kamboj,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.1,FAIR
+Shivalik Sharma,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.1,FAIR
+Dilshan Madushanka,BOWLER,4.6,Not Mentioned,Mumbai Indians,0.5,sold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,3.3,OVERVALUED
+Rohit Sharma,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Dewald Brevis,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Suryakumar Yadav,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Ishan Kishan,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,2644.0,132.79758915118032,26.707070707070706,0.0,0.0,21.90108324590621,14.31,-14.31,UNDERVALUED
+Tilak Varma,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,1156.0,139.27710843373492,30.42105263157895,0.0,7.043478260869566,26.163939011443244,5.19,-5.19,UNDERVALUED
+Tim David,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Vishnu Vinod,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,56.0,96.55172413793103,9.333333333333334,0.0,0.0,5.564753854956579,0.77,-0.77,FAIR
+Arjun Tendulkar,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,13.0,144.44444444444443,13.0,4.0,7.518072289156627,12.151719750595628,0.16,-0.16,FAIR
+Cameron Green,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Shams Mulani,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Nehal Wadhera,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Jasprit Bumrah,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Kumar Kartikeya,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Piyush Chawla,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Akash Madhwal,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,4.0,80.0,4.0,22.0,8.752688172043012,6.274686358491995,0.0,0.0,FAIR
+Jason Behrendorff,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0,0,8,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.3,-1.3,FAIR
+Mayank Dagar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,2.0,8.608695652173912,0.07302541028208753,0.21,-0.21,FAIR
+Cameron Green,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Alzarri Joseph,BOWLER,11.5,GT,Royal Challengers Banglore,1.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,9.65,OVERVALUED
+Yash Dayal,BOWLER,5.0,GT,Royal Challengers Banglore,0.2,sold,0,0,0,2024,0.0,0.0,0.0,31.0,8.565853658536586,3.956471815961004,2.84,2.16,OVERVALUED
+Lockie Ferguson,BOWLER,2.0,KKR,Royal Challengers Banglore,2.0,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,0.15,FAIR
+Tom Curran,ALL-ROUNDER,1.5,Not Mentioned,Royal Challengers Banglore,1.5,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-0.35,FAIR
+Saurav Chuahan,BATTER,0.2,Not Mentioned,Royal Challengers Banglore,0.2,sold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.65,FAIR
+Swapnil Singh,ALL-ROUNDER,0.2,LSG,Royal Challengers Banglore,0.2,sold,0,0,0,2024,51.0,110.86956521739131,5.666666666666667,7.0,8.654545454545454,4.623834579467439,0.72,-0.52,FAIR
+Faf du Plessis,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Glenn Maxwell,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Virat Kohli,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajat Patidar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Anuj Rawat,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,318.0,115.21739130434783,15.142857142857142,0.0,0.0,10.773951398591818,1.9,-1.9,FAIR
+Dinesh Karthik,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Suyash Prabhudessai,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Will Jacks,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mahipal Lomror,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Karn Sharma,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Manoj Bhandage,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vyshak Vijaykumar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akash Deep,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,19.0,158.33333333333331,6.333333333333333,8.0,10.56,6.9434450478016005,0.5,-0.5,FAIR
+Mohammed Siraj,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,109.0,89.34426229508196,5.45,96.0,7.715521383950024,15.455885221168254,4.36,-4.36,UNDERVALUED
+Reece Topley,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Himanshu Sharma,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajan Kumar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Avesh Khan,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,41.0,164.0,4.555555555555555,81.0,8.240287769784173,17.03702196852255,9.91,-9.91,UNDERVALUED
+Rovman Powell,BATTER,7.4,DC,Rajasthan Royals,1.0,sold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,5.09,OVERVALUED
+Shubham Dubey,BATTER,5.8,Not Mentioned,Rajasthan Royals,0.2,sold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,3.49,OVERVALUED
+Nandre Burger,BOWLER,0.5,Not Mentioned,Rajasthan Royals,0.5,sold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-1.81,FAIR
+Tom Kohler-Cadmore,WICKETKEEPER,0.4,Not Mentioned,Rajasthan Royals,0.4,sold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-1.91,FAIR
+Abid Mushtaq,ALL-ROUNDER,0.2,Not Mentioned,Rajasthan Royals,0.2,sold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.11,UNDERVALUED
+Sanju Samson,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Jos Buttler,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Shimron Hetmyer,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Yashasvi Jaiswal,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Dhruv Jurel,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,347.0,146.41350210970467,15.772727272727273,0.0,0.0,14.260576137774578,1.17,-1.17,FAIR
+Riyan Parag,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Donovan Ferreira,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Kunal Rathore,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Ravichandran Ashwin,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Kuldeep Sen,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Navdeep Saini,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,2.0,100.0,2.0,6.0,10.5,2.213465341717683,0.54,-0.54,FAIR
+Prasidh Krishna,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Sandeep Sharma,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,54.0,73.97260273972603,2.16,153.0,7.394871794871795,24.459036412428684,0.0,0.0,FAIR
+Trent Boult,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Yuzvendra Chahal,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Adam Zampa,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0,0,11,2024,0.0,0.0,0.0,0.0,0.0,0.0,2.31,-2.31,UNDERVALUED
+Shahbaz Ahmed,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,536.0,114.77516059957173,14.486486486486486,21.0,9.01639344262295,12.199643891979672,2.95,-2.95,UNDERVALUED
+Pat Cummins,ALL-ROUNDER,20.5,Not Mentioned,Sunrisers Hyderabad,2.0,sold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,18.67,OVERVALUED
+Travis Head,BATTER,6.8,Not Mentioned,Sunrisers Hyderabad,2.0,sold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,4.97,OVERVALUED
+Jaydev Unadkat,BOWLER,1.6,LSG,Sunrisers Hyderabad,0.5,sold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-0.23,FAIR
+Wanindu Hasaranga,ALL-ROUNDER,1.5,RCB,Sunrisers Hyderabad,1.5,sold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-0.33,FAIR
+Akash Singh,BOWLER,0.2,CSK,Sunrisers Hyderabad,0.2,sold,0,0,14,2024,0.0,0.0,0.0,5.0,9.53191489361702,0.4034327911789434,0.0,0.2,FAIR
+Jhathavedh Subramanyan,BOWLER,0.2,Not Mentioned,Sunrisers Hyderabad,0.2,sold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.63,FAIR
+Abdul Samad,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,579.0,141.91176470588235,14.846153846153847,2.0,11.781818181818181,13.144006028331656,1.44,-1.44,FAIR
+Aiden Markram,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Rahul Tripathi,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Glenn Phillips,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Heinrich Klaasen,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Mayank Agarwal,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Anmolpreet Singh,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,139.0,118.80341880341881,15.444444444444445,0.0,0.0,11.330533998040822,1.48,-1.48,FAIR
+Upendra Singh Yadav,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Nitish Kumar Reddy,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Abhishek Sharma,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,1377.0,148.86486486486484,22.57377049180328,11.0,8.201438848920862,21.902322282554163,6.06,-6.06,UNDERVALUED
+Marco Jansen,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Washington Sundar,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,378.0,110.85043988269794,9.947368421052632,39.0,7.381578947368421,11.009367752744772,7.83,-7.83,UNDERVALUED
+Sanvir Singh,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,25.0,113.63636363636364,5.0,0.0,0.0,3.508621183479406,1.7,-1.7,FAIR
+Bhuvneshwar Kumar,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+T Natarajan,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,3.0,60.0,1.5,76.0,8.137044967880085,11.544629334711667,1.34,-1.34,FAIR
+Mayank Markande,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.83,-1.83,FAIR
+Umran Malik,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,23.0,143.75,4.6,31.0,8.46242774566474,8.828937506029728,4.6,-4.6,UNDERVALUED
+Fazalhaq Farooqi,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0,0,14,2024,3.0,23.076923076923077,1.5,6.0,8.037037037037036,0.8134393214010437,0.0,0.0,FAIR
+Karun Nair,BATTER,0.0,LSG,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Steve Smith,BATTER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Josh Inglis,WICKETKEEPER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kusal Mendis,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Philip Salt,WICKETKEEPER,0.0,DC,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Josh Hazlewood,BOWLER,0.0,RCB,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akeal Hosein,BOWLER,0.0,SRH,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Adil Rashid,BOWLER,0.0,SRH,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohammad Waqar Salamkheil,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tabraiz Shamsi,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ish Sodhi,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Priyansh Arya,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rohan Kunnummal,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Manan Vohra,BATTER,0.0,LSG,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Raj Angad Bawa,ALL-ROUNDER,0.0,PBKS,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sarfaraz Khan,ALL-ROUNDER,0.0,DC,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vivrant Sharma,ALL-ROUNDER,0.0,SRH,Unsold,0.2,unsold,0,0,0,2024,69.0,140.81632653061226,69.0,0.0,9.714285714285715,60.0,0.27,-0.27,FAIR
+Atit Sheth,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Hrithik Shokeen,ALL-ROUNDER,0.0,MI,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Urvil Patel,WICKETKEEPER,0.0,GT,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vishnu Solanki,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ishan Porel,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kuldip Yadav,BOWLER,0.0,RR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Murgan Ashwin,BOWLER,0.0,RR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Pulkit Narang,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shiva Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Finn Allen,BATTER,0.0,RCB,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Alick Athanaze,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mark Chapman,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Samuel Hain,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Reeza Hendricks,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Brandon King,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Colin Munro,BATTER,0.0,Not Mentioned,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rassie Van Der Dussen,BATTER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+James Vince,BATTER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ibrahim Zadran,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Najibullah Zadran,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sean Abbott,ALL-ROUNDER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ashton Agar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Wesley Agar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Qais Ahamad,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rehan Ahmed,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Fabian Allen,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Charith Asalanka,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Michael Bracewell,ALL-ROUNDER,0.0,RCB,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Brydon Carse,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ben Cutting,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Matthew Forde,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+George Garton,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jason Holder,ALL-ROUNDER,0.0,RR,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+George Linde,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Keshav Maharaj,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Wiaan Mulder,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+James Neesham,ALL-ROUNDER,0.0,Not Mentioned,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jamie Overton,ALL-ROUNDER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Keemo Paul,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dwaine Pretorius,ALL-ROUNDER,0.0,CSK,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Daniel Sams,ALL-ROUNDER,0.0,LSG,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dasun Shanaka,ALL-ROUNDER,0.0,GT,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Matthew Short,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Odean Smith,ALL-ROUNDER,0.0,GT,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Hanuma Vihari,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sam Billings,WICKETKEEPER,0.0,Not Mentioned,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Johnson Charles,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ben Duckett,WICKETKEEPER,0.0,Not Mentioned,Unsold,2.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Varun Aaron,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Fareed Ahmad,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Taskin Ahmed,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dushmanta Chameera,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ben Dwarshuis,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Richard Gleeson,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Matt Henry,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Md Shoriful Islam,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kyle Jamieson,BOWLER,0.0,CSK,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Chris Jordan,BOWLER,0.0,MI,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Siddharth Kaul,BOWLER,0.0,RCB,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lahiru Kumara,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Obed Mccoy,BOWLER,0.0,RR,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Riley Meredith,BOWLER,0.0,MI,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tymal Mills,BOWLER,0.0,Not Mentioned,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Adam Milne,BOWLER,0.0,CSK,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lance Morris,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Blessing Muzarabani,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Richard Ngarava,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Wayne Parnell,BOWLER,0.0,RCB,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ollie Robinson,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+George Scrimshaw,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tim Southee,BOWLER,0.0,KKR,Unsold,1.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Barinder Sran,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Billy Stanlake,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Olly Stone,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Oshane Thomas,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sandeep Warrier,BOWLER,0.0,MI,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lizaad Williams,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Luke Wood,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dinesh Bana,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajat Dey,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abhimanyu Easwaran,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rithik Easwaran,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Chirag Gandhi,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nikhil Gangta,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sudip Gharami,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ansh Gosai,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Azim Kazi,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Amandeep Khare,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ankit Kumar,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Bhupen Lalwani,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Pukhraj Mann,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tanmay Mishra,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Salman Nizar,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Priyank Panchal,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akshat Raghuwanshi,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ekant Sen,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Subhranshu Senapati,BATTER,0.0,CSK,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Naushad Shaikh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dhruv Shorey,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Himmat Singh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Virat Singh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,15.0,57.692307692307686,7.5,0.0,0.0,2.6719499781881626,1.93,-1.93,FAIR
+Shashank Singh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,423.0,155.51470588235296,22.263157894736842,1.0,7.578947368421052,21.53059904841781,0.98,-0.98,FAIR
+Sumeet Verma,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+P.A. Abdul,ALL-ROUNDER,0.0,RR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Murugan Abhishek,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Atharva Ankolekar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Baba Aparajith,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jass Inder Baidwan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Corbin Bosch,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.3,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahul Buddhi,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vaisakh Chandran,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Writtick Chatterjee,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Raj Chaudhary,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravi Chauhan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ashwin Das,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Aarya Desai,ALL-ROUNDER,0.0,KKR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vineet Dhankhar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Harsh Dubey,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prerit Dutta,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jake Fraser-Mcgurk,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shubhang Hegde,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Benny Howell,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.4,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Saransh Jain,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Duan Jansen,ALL-ROUNDER,0.0,MI,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohammad Kaif,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Aman Khan,ALL-ROUNDER,0.0,DC,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohd Arslan Khan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Musheer Khan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tanush Kotian,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,24.0,75.0,24.0,0.0,0.0,11.115311909262758,1.3,-1.3,FAIR
+Manvanth Kumar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Saurabh Kumar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dev Lakra,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nasir Lone,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kaushik Maity,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Divij Mehra,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mani Sankar Mura Singh,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kamlesh Nagarkoti,ALL-ROUNDER,0.0,DC,Unsold,0.3,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sanjay Pahal,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jitender Pal,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Saumy Pandey,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ansh Patel,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sairaj Patil,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Pradosh Paul,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shubham Singh Pundir,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Atal Rai,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abhimanyusingh Rajput,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohit Rathee,ALL-ROUNDER,0.0,PBKS,Unsold,0.2,unsold,0,0,0,2024,1.0,50.0,1.0,0.0,14.5,0.30875866414618774,0.0,0.0,FAIR
+Ninad Rathva,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rohit Rayudu,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Aniketh Reddy,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohit Redkar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jalaj Saxena,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.4,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akash Sengupta,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Suryansh Shedge,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Aradhya Shukla,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Utkarsh Singh,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prenelan Subrayen,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravi Teja,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akash Vashisht,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+David Wiese,ALL-ROUNDER,0.0,KKR,Unsold,1.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohit Ahlawat,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+G. Ajitesh,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+L.R. Chethan,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Gourav Choudhary,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Harvik Desai,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shakir Gandhi,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sumit Ghadigaonkar,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Baba Indrajith,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Bhagmender Lather,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Anmol Malhotra,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Darshan Misal,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nikhil Naik,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prasad Pawar,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mahesh Pithiya,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+William Salzmann,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Bipin Saurabh,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+B.R. Sharath,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+K.L. Shrijith,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Avneesh Sudha,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Aditya Tare,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nihal Ullal,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+K.M Asif,BOWLER,0.0,RR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohit Avasthi,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ottneil Baartman,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Basit Bashir,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Waseem Bashir,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sachin Bhosale,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Devendra Singh Bora,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Gurnoor Singh Brar,BOWLER,0.0,PBKS,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Saurabh Dubey,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mrinmoy Dutta,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vishal Godara,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Money Grewal,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Arpit Guleria,BOWLER,0.0,LSG,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mukhtar Hussain,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shamar Joseph,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohammed Kaif,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shubham Kapse,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Devang Karamta,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kulwant Khejroliya,BOWLER,0.0,KKR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravi Kumar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ashwani Kumar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Raj Limbani,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kwena Maphaka,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lukman Hussain Meriwala,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Venkatesh Muralidhara,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+William O'Rourke,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rakshan Readdi,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Manish Reddy,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Monish Reddy,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akhin Sathar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Divesh Sharma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ashok Sharma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abhilash Shetty,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahul Shukla,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Manit Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Gurjapneet Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Basil Thampi,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,0,0,0,2024,32.0,86.48648648648648,4.571428571428571,26.0,9.217068645640074,5.392637552452059,0.79,-0.79,FAIR
+Paul Van Meekeren,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nitin Verma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Chris Wood,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Gourav Yadav,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lalit Yadav,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,0,0,0,2024,305.0,101.32890365448506,14.523809523809524,11.0,8.551020408163264,10.13176942975934,0.73,-0.73,FAIR
+Prithvi Raj Yarra,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mujtaba Yousuf,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shubham Agrawal,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mustaq Beg,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+K.C Cariappa,BOWLER,0.0,RR,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ganesh Chaudhary,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Yuvraj Chudasama,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jasmer Dhankhar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Chintal Gandhi,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Allah Ghazanfar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Raghav Goyal,BOWLER,0.0,MI,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shreyas Gurav,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vishu Kashyap,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+S Midhun,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,12.0,0.0,0.21,-0.21,FAIR
+Izharulhuq Naveed,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Bhuwan Rohilla,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shivam Sharma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,5.0,166.66666666666669,2.5,4.0,8.68421052631579,2.9235108372389185,3.89,-3.89,UNDERVALUED
+Digvesh Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jagadeesha Suchith,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+B. Surya,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Pankaj Yadav,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rohit Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dewald Brevis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Suryakumar Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ishan Kishan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,2644.0,132.79758915118032,26.707070707070706,0.0,0.0,21.90108324590621,11.01,-11.01,UNDERVALUED
+Tilak Varma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,1156.0,139.27710843373492,30.42105263157895,0.0,7.043478260869566,26.163939011443244,2.82,-2.82,UNDERVALUED
+Tim David,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vishnu Vinod,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,56.0,96.55172413793103,9.333333333333334,0.0,0.0,5.564753854956579,1.02,-1.02,FAIR
+Arjun Tendulkar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,13.0,144.44444444444443,13.0,4.0,7.518072289156627,12.151719750595628,0.33,-0.33,FAIR
+Shams Mulani,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nehal Wadhera,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jasprit Bumrah,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kumar Kartikeya,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Piyush Chawla,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akash Madhwal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,4.0,80.0,4.0,22.0,8.752688172043012,6.274686358491995,0.17,-0.17,FAIR
+Jason Behrendorff,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Faf du Plessis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Glenn Maxwell,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Virat Kohli,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajat Patidar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Anuj Rawat,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,318.0,115.21739130434783,15.142857142857142,0.0,0.0,10.773951398591818,1.9,-1.9,FAIR
+Dinesh Karthik,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Suyash Prabhudessai,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Will Jacks,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mahipal Lomror,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Karn Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Manoj Bhandage,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vyshak Vijaykumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Akash Deep,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,19.0,158.33333333333331,6.333333333333333,8.0,10.56,6.9434450478016005,0.5,-0.5,FAIR
+Mohammed Siraj,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,109.0,89.34426229508196,5.45,96.0,7.715521383950024,15.455885221168254,4.36,-4.36,UNDERVALUED
+Reece Topley,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Himanshu Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajan Kumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+David Miller,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shubman Gill,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,3216.0,132.23684210526315,32.484848484848484,0.0,0.0,26.526653461286823,9.84,-9.84,UNDERVALUED
+Matthew Wade,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Wriddhiman Saha,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kane Williamson,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abhinav Manohar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+B. Sai Sudharsan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Darshan Nalkande,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vijay Shankar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jayant Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahul Tewatia,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohammed Shami,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,74.0,90.2439024390244,3.217391304347826,144.0,7.820706069020231,24.603557074186856,0.4,-0.4,FAIR
+Noor Ahmad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,13.0,72.22222222222221,2.6,24.0,7.450292397660819,4.428163923937175,0.0,0.0,FAIR
+R. Sai Kishore,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rashid Khan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,545.0,153.52112676056336,9.39655172413793,157.0,6.6639089968976215,36.561797401895845,3.2,-3.2,UNDERVALUED
+Joshua Little,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohit Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+KL Rahul,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,4689.0,131.05086640581328,38.4344262295082,0.0,0.0,31.103513295800987,13.18,-13.18,UNDERVALUED
+Quinton de Kock,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nicholas Pooran,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ayush Badoni,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kyle Mayers,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Marcus Stoinis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Deepak Hooda,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravi Bishnoi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,32.0,61.53846153846154,2.2857142857142856,68.0,7.331506849315069,10.237788688445814,3.6,-3.6,UNDERVALUED
+Naveen-ul-Haq,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,18.0,69.23076923076923,4.5,26.0,8.417690417690418,6.203272073365902,0.15,-0.15,FAIR
+Krunal Pandya,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Yudhvir Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,22.0,137.5,5.5,4.0,9.405405405405405,5.168562079206032,0.41,-0.41,FAIR
+Prerak Mankad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Yash Thakur,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,27.0,9.208333333333334,3.9745979528420343,0.0,0.0,FAIR
+Amit Mishra,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mark Wood,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mayank Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mohsin Khan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,25.0,92.5925925925926,5.0,27.0,7.846153846153847,6.833474472714142,0.54,-0.54,FAIR
+Abdul Samad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,579.0,141.91176470588235,14.846153846153847,2.0,11.781818181818181,13.144006028331656,0.72,-0.72,FAIR
+Aiden Markram,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahul Tripathi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Glenn Phillips,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Heinrich Klaasen,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mayank Agarwal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Anmolpreet Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,139.0,118.80341880341881,15.444444444444445,0.0,0.0,11.330533998040822,0.71,-0.71,FAIR
+Upendra Singh Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nitish Kumar Reddy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abhishek Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,1377.0,148.86486486486484,22.57377049180328,11.0,8.201438848920862,21.902322282554163,2.87,-2.87,UNDERVALUED
+Marco Jansen,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Washington Sundar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,378.0,110.85043988269794,9.947368421052632,39.0,7.381578947368421,11.009367752744772,7.21,-7.21,UNDERVALUED
+Sanvir Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,25.0,113.63636363636364,5.0,0.0,0.0,3.508621183479406,1.2,-1.2,FAIR
+Bhuvneshwar Kumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+T Natarajan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,3.0,60.0,1.5,76.0,8.137044967880085,11.544629334711667,1.97,-1.97,FAIR
+Mayank Markande,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Umran Malik,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,23.0,143.75,4.6,31.0,8.46242774566474,8.828937506029728,4.2,-4.2,UNDERVALUED
+Fazalhaq Farooqi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,3.0,23.076923076923077,1.5,6.0,8.037037037037036,0.8134393214010437,0.0,0.0,FAIR
+Nitish Rana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rinku Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rahmanullah Gurbaz,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,289.0,126.75438596491229,22.23076923076923,0.0,0.0,17.40069661818741,1.05,-1.05,FAIR
+Shreyas Iyer,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jason Roy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sunil Narine,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Suyash Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,11.0,8.318181818181818,1.19504288219826,0.17,-0.17,FAIR
+Anukul Roy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Andre Russell,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Venkatesh Iyer,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Harshit Rana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,2.0,66.66666666666666,0.6666666666666666,27.0,8.38213399503722,4.955017763552961,0.0,0.0,FAIR
+Vaibhav Arora,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Varun Chakaravarthy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shikhar Dhawan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Liam Livingstone,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jonny Bairstow,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Gurnoor Singh Brar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jitesh Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shivam Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,2.0,66.66666666666666,2.0,0.0,0.0,0.823356437723167,1.47,-1.47,FAIR
+Rahul Chahar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prabhsimran Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Matthew Short,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Arshdeep Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,29.0,69.04761904761905,2.6363636363636362,84.0,8.08534067446662,14.150515774266909,3.21,-3.21,UNDERVALUED
+Harpreet Bhatia,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Harpreet Brar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,233.0,115.92039800995025,9.708333333333334,25.0,7.586705202312139,9.531471985366293,0.47,-0.47,FAIR
+Atharva Taide,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,247.0,139.54802259887003,27.444444444444443,0.0,24.0,23.649789505203714,0.0,0.0,FAIR
+Vidwath Kaverappa,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rishi Dhawan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kagiso Rabada,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sam Curran,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Nathan Ellis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sikandar Raza,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,182.0,127.27272727272727,20.22222222222222,3.0,9.068181818181818,16.13788193884861,0.38,-0.38,FAIR
+Sanju Samson,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Jos Buttler,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shimron Hetmyer,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Yashasvi Jaiswal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Dhruv Jurel,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,347.0,146.41350210970467,15.772727272727273,0.0,0.0,14.260576137774578,0.36,-0.36,FAIR
+Riyan Parag,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Donovan Ferreira,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kunal Rathore,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravichandran Ashwin,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Kuldeep Sen,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Navdeep Saini,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,2.0,100.0,2.0,6.0,10.5,2.213465341717683,0.09,-0.09,FAIR
+Prasidh Krishna,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Sandeep Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,54.0,73.97260273972603,2.16,153.0,7.394871794871795,24.459036412428684,0.0,0.0,FAIR
+Trent Boult,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Yuzvendra Chahal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Adam Zampa,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rishabh Pant,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Pravin Dubey,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+David Warner,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Vicky Ostwal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prithvi Shaw,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Anrich Nortje,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Abishek Porel,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,360.0,147.54098360655738,22.5,0.0,0.0,20.499550652328853,0.73,-0.73,FAIR
+Kuldeep Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,183.0,81.69642857142857,5.71875,90.0,7.8577827547592385,15.403022663172369,5.68,-5.68,UNDERVALUED
+Axar Patel,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lungi Ngidi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Lalit Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,305.0,101.32890365448506,14.523809523809524,11.0,8.551020408163264,10.13176942975934,0.73,-0.73,FAIR
+Khaleel Ahmed,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mitchell Marsh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ishant Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Yash Dhull,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mukesh Kumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,10.0,50.0,2.0,31.0,9.614285714285714,5.7791551506010865,2.7,-2.7,UNDERVALUED
+MS Dhoni,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,5243.0,132.8350646060299,22.99561403508772,0.0,0.0,18.86283174849452,12.51,-12.51,UNDERVALUED
+Moeen Ali,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Deepak Chahar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Devon Conway,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Tushar Deshpande,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shivam Dube,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ruturaj Gaikwad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Rajvardhan Hangargekar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ravindra Jadeja,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ajay Mandal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mukesh Choudhary,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,6.0,100.0,3.0,16.0,8.697986577181208,3.994630686485027,0.01,-0.01,FAIR
+Matheesha Pathirana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Ajinkya Rahane,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Shaik Rasheed,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Mitchell Santner,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Simarjeet Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,7.0,87.5,2.3333333333333335,10.0,7.523316062176166,2.75446611921539,0.16,-0.16,FAIR
+Nishant Sindhu,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Prashant Solanki,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR
+Maheesh Theekshana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0,0,0,2024,0.0,0.0,0.0,0.0,0.0,0.0,1.85,-1.85,FAIR

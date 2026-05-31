@@ -1,0 +1,21 @@
+player,role,team,sold_price_cr,value_index,price_per_value,market_status
+Shashank Singh,ALL-ROUNDER,Punjab Kings,0.2,21.53,0.0093,FAIRLY PRICED
+Ashutosh Sharma,ALL-ROUNDER,Punjab Kings,0.2,20.77,0.0096,FAIRLY PRICED
+Naman Dhir,ALL-ROUNDER,Mumbai Indians,0.2,20.58,0.0097,FAIRLY PRICED
+Ramandeep Singh,ALL-ROUNDER,Kolkata Night Riders,0.2,15.19,0.0132,FAIRLY PRICED
+Mohammad Nabi,ALL-ROUNDER,Mumbai Indians,1.5,11.69,0.1283,FAIRLY PRICED
+Mustafizur Rahman,BOWLER,Chennai Super Kings,2.0,11.16,0.1793,FAIRLY PRICED
+Azmatullah Omarzai,ALL-ROUNDER,Gujrat Titans,0.5,8.33,0.06,FAIRLY PRICED
+Sameer Rizvi,BATTER,Chennai Super Kings,8.4,7.47,1.1244,OVERVALUED
+Shivam Mavi,BOWLER,Lucknow Super Giants,6.4,6.88,0.9307,FAIRLY PRICED
+Swapnil Singh,ALL-ROUNDER,Royal Challengers Banglore,0.2,4.62,0.0433,FAIRLY PRICED
+Yash Dayal,BOWLER,Royal Challengers Banglore,5.0,3.96,1.2638,FAIRLY PRICED
+Sumit Kumar,ALL-ROUNDER,Delhi Capitals,1.0,2.57,0.3899,FAIRLY PRICED
+Kartik Tyagi,BOWLER,Gujrat Titans,0.6,2.46,0.2441,FAIRLY PRICED
+Akash Singh,BOWLER,Sunrisers Hyderabad,0.2,0.4,0.4957,FAIRLY PRICED
+Kumar Kushagra,WICKETKEEPER,Delhi Capitals,7.2,0.26,27.2057,FAIRLY PRICED
+Spencer Johnson,BOWLER,Gujrat Titans,10.0,0.0,,OVERVALUED
+Shahrukh Khan,ALL-ROUNDER,Gujrat Titans,7.4,0.0,,FAIRLY PRICED
+Umesh Yadav,BOWLER,Gujrat Titans,5.8,0.0,,FAIRLY PRICED
+Robin Minz,WICKETKEEPER,Gujrat Titans,3.6,0.0,,FAIRLY PRICED
+Sushant Mishra,BOWLER,Gujrat Titans,2.2,0.0,,FAIRLY PRICED

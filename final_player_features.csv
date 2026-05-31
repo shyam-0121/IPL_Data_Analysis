@@ -1,0 +1,676 @@
+player,role,sold_price_cr,2023_squad,team,base_price_cr,status,total_runs,total_balls,innings_count,fours,sixes,strike_rate,batting_avg,boundary_pct,batting_consistency_score,wickets,runs_conceded,balls_bowled,innings_bowled,economy_rate,bowling_avg,bowling_sr,bowling_value_score,batting_score_norm,bowling_score_norm,value_index
+Spencer Johnson,BOWLER,10.0,Not Mentioned,Gujrat Titans,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shahrukh Khan,ALL-ROUNDER,7.4,PBKS,Gujrat Titans,0.4,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Umesh Yadav,BOWLER,5.8,KKR,Gujrat Titans,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Robin Minz,WICKETKEEPER,3.6,Not Mentioned,Gujrat Titans,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sushant Mishra,BOWLER,2.2,Not Mentioned,Gujrat Titans,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kartik Tyagi,BOWLER,0.6,SRH,Gujrat Titans,0.2,sold,13.0,16.0,6.0,1.0,0.0,81.25,2.1666666666666665,6.25,1.7604166666666665,16.0,675.0,458.0,20.0,8.842794759825328,42.1875,28.625,6.320987654320987,1.8118129944689487,3.4273259225726402,2.4580181657104254
+Azmatullah Omarzai,ALL-ROUNDER,0.5,Not Mentioned,Gujrat Titans,0.5,sold,42.0,34.0,4.0,2.0,2.0,123.52941176470588,10.5,11.76470588235294,12.970588235294118,4.0,181.0,131.0,7.0,8.290076335877863,45.25,32.75,1.4732965009208103,13.349271655732235,0.7988415047432779,8.329099595336652
+Manav Suthar,BOWLER,0.2,Not Mentioned,Gujrat Titans,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Miller,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubman Gill,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,3216.0,2432.0,99.0,310.0,95.0,132.23684210526315,32.484848484848484,16.652960526315788,42.95693779904306,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.211089102144705,0.0,26.526653461286823
+Matthew Wade,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wriddhiman Saha,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kane Williamson,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhinav Manohar,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+B. Sai Sudharsan,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Darshan Nalkande,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vijay Shankar,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jayant Yadav,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Tewatia,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammed Shami,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,74.0,82.0,23.0,6.0,2.0,90.2439024390244,3.217391304347826,9.75609756097561,2.903499469777307,144.0,3286.0,2521.0,110.0,7.820706069020231,22.819444444444443,17.506944444444443,105.17346317711504,2.9882687254586853,57.02648959727911,24.603557074186856
+Noor Ahmad,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,13.0,18.0,5.0,2.0,0.0,72.22222222222221,2.6,11.11111111111111,1.8777777777777778,24.0,637.0,513.0,23.0,7.450292397660819,26.541666666666668,21.375,15.070643642072213,1.9326005274335454,8.17150901869262,4.428163923937175
+R. Sai Kishore,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rashid Khan,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,545.0,355.0,58.0,39.0,38.0,153.52112676056336,9.39655172413793,21.69014084507042,14.425692083535694,157.0,3222.0,2901.0,121.0,6.6639089968976215,20.522292993630572,18.477707006369428,127.50362093937512,14.846858056989054,69.13420641925603,36.561797401895845
+Joshua Little,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohit Sharma,UNKNOWN,0.0,Not Mentioned,Gujrat Titans,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daryl Mitchell,ALL-ROUNDER,14.0,Not Mentioned,Chennai Super Kings,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sameer Rizvi,BATTER,8.4,Not Mentioned,Chennai Super Kings,0.2,sold,51.0,43.0,5.0,4.0,2.0,118.6046511627907,10.2,13.953488372093023,12.097674418604651,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.450872642546267,0.0,7.47052358552776
+Shardul Thakur,ALL-ROUNDER,4.0,KKR,Chennai Super Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mustafizur Rahman,BOWLER,2.0,DC,Chennai Super Kings,2.0,sold,13.0,23.0,6.0,0.0,1.0,56.52173913043478,2.1666666666666665,4.3478260869565215,1.2246376811594202,70.0,1703.0,1353.0,57.0,7.552106430155211,24.32857142857143,19.32857142857143,47.95458993932276,1.2603916483262252,26.001634268820204,11.156888696523817
+Rachin Ravindra,ALL-ROUNDER,1.8,Not Mentioned,Chennai Super Kings,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Avanish Rao Aravelly,WICKETKEEPER,0.2,Not Mentioned,Chennai Super Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MS Dhoni,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,5243.0,3947.0,228.0,363.0,252.0,132.8350646060299,22.99561403508772,15.581454269065112,30.546238760062053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.438052914157538,0.0,18.86283174849452
+Moeen Ali,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deepak Chahar,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Devon Conway,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tushar Deshpande,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Dube,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ruturaj Gaikwad,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajvardhan Hangargekar,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravindra Jadeja,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ajay Mandal,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mukesh Choudhary,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,6.0,6.0,2.0,1.0,0.0,100.0,3.0,16.666666666666664,3.0,16.0,432.0,298.0,14.0,8.697986577181208,27.0,18.625,9.876543209876543,3.0875866414618773,5.355196754019751,3.994630686485027
+Matheesha Pathirana,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ajinkya Rahane,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shaik Rasheed,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mitchell Santner,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Simarjeet Singh,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,7.0,8.0,3.0,0.0,0.0,87.5,2.3333333333333335,0.0,2.041666666666667,10.0,242.0,193.0,10.0,7.523316062176166,24.2,19.3,6.887052341597795,2.1012742421060002,3.7342539348794745,2.75446611921539
+Nishant Sindhu,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prashant Solanki,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maheesh Theekshana,UNKNOWN,0.0,Not Mentioned,Chennai Super Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kumar Kushagra,WICKETKEEPER,7.2,Not Mentioned,Delhi Capitals,0.2,sold,3.0,7.0,3.0,0.0,0.0,42.857142857142854,1.0,0.0,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4410838059231253,0.0,0.26465028355387515
+Jhye Richardson,BOWLER,5.0,Not Mentioned,Delhi Capitals,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harry Brook,BATTER,4.0,SRH,Delhi Capitals,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sumit Kumar,ALL-ROUNDER,1.0,Not Mentioned,Delhi Capitals,0.2,sold,18.0,26.0,3.0,2.0,1.0,69.23076923076923,6.0,11.538461538461538,4.153846153846153,0.0,36.0,22.0,2.0,9.818181818181818,999.0,999.0,0.0,4.2751199651010605,0.0,2.565071979060636
+Shai Hope,WICKETKEEPER,0.75,Not Mentioned,Delhi Capitals,0.75,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tristan Stubbs,WICKETKEEPER,0.5,MI,Delhi Capitals,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ricky Bhui,WICKETKEEPER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rasikh Dar,BOWLER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swastik Chhikara,BATTER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rishabh Pant,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pravin Dubey,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Warner,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vicky Ostwal,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prithvi Shaw,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anrich Nortje,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abishek Porel,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,360.0,244.0,16.0,37.0,15.0,147.54098360655738,22.5,21.311475409836063,33.19672131147541,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.16591775388142,0.0,20.499550652328853
+Kuldeep Yadav,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,183.0,224.0,32.0,16.0,3.0,81.69642857142857,5.71875,8.482142857142858,4.672014508928571,90.0,2339.0,1786.0,82.0,7.8577827547592385,25.988888888888887,19.844444444444445,57.71697306541257,4.808416528827976,31.29493186468896,15.403022663172369
+Axar Patel,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lungi Ngidi,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lalit Yadav,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,305.0,301.0,21.0,27.0,7.0,101.32890365448506,14.523809523809524,11.295681063122924,14.716816959341877,11.0,419.0,294.0,19.0,8.551020408163264,38.09090909090909,26.727272727272727,4.81304693715195,15.146482482834529,2.609699850146559,10.13176942975934
+Khaleel Ahmed,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mitchell Marsh,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ishant Sharma,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yash Dhull,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mukesh Kumar,UNKNOWN,0.0,Not Mentioned,Delhi Capitals,0.0,unsold,10.0,20.0,5.0,0.0,0.0,50.0,2.0,0.0,1.0,31.0,673.0,420.0,20.0,9.614285714285714,21.70967741935484,13.548387096774194,23.798910351659238,1.0291955471539591,12.904094555771776,5.7791551506010865
+Mitchell Starc,BOWLER,24.75,Not Mentioned,Kolkata Night Riders,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mujeeb Rahman,BOWLER,2.0,Not Mentioned,Kolkata Night Riders,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sherfane Rutherford,BATTER,1.5,Not Mentioned,Kolkata Night Riders,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gus Atkinson,BOWLER,1.0,Not Mentioned,Kolkata Night Riders,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manish Pandey,BATTER,0.5,DC,Kolkata Night Riders,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+K.S. Bharat,WICKETKEEPER,0.5,GT,Kolkata Night Riders,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chetan Sakariya,BOWLER,0.5,DC,Kolkata Night Riders,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Angkrish Raghuvanshi,BATTER,0.2,Not Mentioned,Kolkata Night Riders,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ramandeep Singh,ALL-ROUNDER,0.2,MI,Kolkata Night Riders,0.2,sold,170.0,106.0,13.0,8.0,13.0,160.37735849056605,13.076923076923077,19.81132075471698,20.972423802612482,6.0,58.0,45.0,4.0,7.733333333333334,9.666666666666666,7.5,10.344827586206895,21.584725190674465,5.6091069449431,15.194477892381919
+Sakib Hussain,BOWLER,0.2,Not Mentioned,Kolkata Night Riders,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nitish Rana,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rinku Singh,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahmanullah Gurbaz,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,289.0,228.0,13.0,24.0,19.0,126.75438596491229,22.23076923076923,18.859649122807017,28.17847503373819,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.00116103031235,0.0,17.40069661818741
+Shreyas Iyer,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jason Roy,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunil Narine,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suyash Sharma,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,366.0,264.0,13.0,8.318181818181818,33.27272727272727,24.0,5.510018214936248,0.0,2.98760720549565,1.19504288219826
+Anukul Roy,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andre Russell,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Venkatesh Iyer,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harshit Rana,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,2.0,3.0,3.0,0.0,0.0,66.66666666666666,0.6666666666666666,0.0,0.44444444444444436,27.0,563.0,403.0,19.0,8.38213399503722,20.85185185185185,14.925925925925926,21.580817051509772,0.4574202431795372,11.701414044113097,4.955017763552961
+Vaibhav Arora,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Varun Chakaravarthy,UNKNOWN,0.0,Not Mentioned,Kolkata Night Riders,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harshal Patel,ALL-ROUNDER,11.75,RCB,Punjab Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rilee Rossouw,BATTER,8.0,DC,Punjab Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chris Woakes,ALL-ROUNDER,4.2,Not Mentioned,Punjab Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashutosh Sharma,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,189.0,118.0,9.0,10.0,15.0,160.16949152542372,21.0,21.1864406779661,33.63559322033898,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.61760276825478,0.0,20.770561660952865
+Vishwanath Pratap Singh,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shashank Singh,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,423.0,272.0,19.0,33.0,25.0,155.51470588235296,22.263157894736842,21.323529411764707,34.62248452012384,1.0,24.0,19.0,3.0,7.578947368421052,24.0,19.0,0.6944444444444444,35.63330689951834,0.37653727176701374,21.53059904841781
+Tanay Thyagarajann,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prince Choudhary,BOWLER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shikhar Dhawan,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liam Livingstone,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jonny Bairstow,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gurnoor Singh Brar,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jitesh Sharma,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Singh,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,2.0,3.0,1.0,0.0,0.0,66.66666666666666,2.0,0.0,1.333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3722607295386118,0.0,0.823356437723167
+Rahul Chahar,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prabhsimran Singh,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Matthew Short,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arshdeep Singh,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,29.0,42.0,11.0,4.0,0.0,69.04761904761905,2.6363636363636362,9.523809523809524,1.8203463203463204,84.0,1958.0,1453.0,65.0,8.08534067446662,23.30952380952381,17.297619047619047,60.061287027579176,1.873492327178527,32.56605094489948,14.150515774266909
+Harpreet Bhatia,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harpreet Brar,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,233.0,201.0,24.0,19.0,9.0,115.92039800995025,9.708333333333334,13.930348258706468,11.253938640132672,25.0,875.0,692.0,39.0,7.586705202312139,35.0,27.68,11.904761904761905,11.582503536368428,6.454924658863092,9.531471985366293
+Atharva Taide,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,247.0,177.0,9.0,27.0,8.0,139.54802259887003,27.444444444444443,19.774011299435028,38.29817953546766,0.0,4.0,1.0,1.0,24.0,999.0,999.0,0.0,39.41631584200619,0.0,23.649789505203714
+Vidwath Kaverappa,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rishi Dhawan,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kagiso Rabada,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sam Curran,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nathan Ellis,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sikandar Raza,UNKNOWN,0.0,Not Mentioned,Punjab Kings,0.0,unsold,182.0,143.0,9.0,12.0,8.0,127.27272727272727,20.22222222222222,13.986013986013987,25.737373737373737,3.0,133.0,88.0,7.0,9.068181818181818,44.333333333333336,29.333333333333332,1.1278195488721805,26.4887904459423,0.6115191782080825,16.13788193884861
+Devdutt Padikkal,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Mavi,BOWLER,6.4,GT,Lucknow Super Giants,0.5,sold,51.0,58.0,11.0,4.0,2.0,87.93103448275862,4.636363636363637,10.344827586206897,4.076802507836991,33.0,903.0,687.0,32.0,7.886462882096071,27.363636363636363,20.818181818181817,20.099667774086377,4.195826987691924,10.898314656592104,6.8768220552519965
+M. Siddharth,BOWLER,2.4,Not Mentioned,Lucknow Super Giants,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Willey,ALL-ROUNDER,2.0,RCB,Lucknow Super Giants,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashton Turner,BATTER,1.0,Not Mentioned,Lucknow Super Giants,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohd. Arshad Khan,ALL-ROUNDER,0.2,MI,Lucknow Super Giants,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arshin Kulkarni,ALL-ROUNDER,0.2,Not Mentioned,Lucknow Super Giants,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KL Rahul,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,4689.0,3578.0,122.0,400.0,187.0,131.05086640581328,38.4344262295082,16.405813303521523,50.36864857187365,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.83918882633498,0.0,31.103513295800987
+Quinton de Kock,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicholas Pooran,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ayush Badoni,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kyle Mayers,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marcus Stoinis,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deepak Hooda,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravi Bishnoi,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,32.0,52.0,14.0,2.0,0.0,61.53846153846154,2.2857142857142856,3.8461538461538463,1.4065934065934065,68.0,1784.0,1460.0,65.0,7.331506849315069,26.235294117647058,21.470588235294116,43.19880418535127,1.4476596707220521,23.422982215031457,10.237788688445814
+Naveen-ul-Haq,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,18.0,26.0,4.0,2.0,0.0,69.23076923076923,4.5,7.6923076923076925,3.1153846153846154,26.0,571.0,407.0,17.0,8.417690417690418,21.96153846153846,15.653846153846153,19.731465265615878,3.2063399738257954,10.69867022267606,6.203272073365902
+Krunal Pandya,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yudhvir Singh,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,22.0,16.0,4.0,1.0,2.0,137.5,5.5,18.75,7.5625,4.0,116.0,74.0,5.0,9.405405405405405,29.0,18.5,2.2988505747126435,7.783291325351815,1.2464682099873559,5.168562079206032
+Prerak Mankad,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yash Thakur,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,663.0,432.0,19.0,9.208333333333334,24.555555555555557,16.0,18.32579185520362,0.0,9.936494882105086,3.9745979528420343
+Amit Mishra,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mark Wood,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mayank Yadav,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohsin Khan,UNKNOWN,0.0,Not Mentioned,Lucknow Super Giants,0.0,unsold,25.0,27.0,5.0,2.0,1.0,92.5925925925926,5.0,11.11111111111111,4.62962962962963,27.0,663.0,507.0,23.0,7.846153846153847,24.555555555555557,18.77777777777778,18.32579185520362,4.764794199786848,9.936494882105086,6.833474472714142
+Hardik Pandya,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Romario Shepherd,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gerald Coetzee,ALL-ROUNDER,5.0,Not Mentioned,Mumbai Indians,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nuwan Thushara,BOWLER,4.8,Not Mentioned,Mumbai Indians,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammad Nabi,ALL-ROUNDER,1.5,Not Mentioned,Mumbai Indians,1.5,sold,221.0,157.0,19.0,18.0,12.0,140.76433121019107,11.631578947368421,19.10828025477707,16.373114314448543,15.0,514.0,419.0,23.0,7.360381861575179,34.266666666666666,27.933333333333334,7.2957198443579765,16.851136345473186,3.955839041910261,11.693017424048017
+Shreyas Gopal,BOWLER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Naman Dhir,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,140.0,84.0,7.0,12.0,10.0,166.66666666666669,20.0,26.190476190476193,33.33333333333334,0.0,54.0,29.0,3.0,11.172413793103448,999.0,999.0,0.0,34.30651823846531,0.0,20.583910943079186
+Anshul Kamboj,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivalik Sharma,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dilshan Madushanka,BOWLER,4.6,Not Mentioned,Mumbai Indians,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rohit Sharma,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dewald Brevis,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suryakumar Yadav,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ishan Kishan,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,2644.0,1991.0,99.0,255.0,119.0,132.79758915118032,26.707070707070706,18.784530386740332,35.466346031890986,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.50180540984368,0.0,21.90108324590621
+Tilak Varma,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,1156.0,830.0,38.0,90.0,58.0,139.27710843373492,30.42105263157895,17.83132530120482,42.36956246036779,0.0,27.0,23.0,4.0,7.043478260869566,999.0,999.0,0.0,43.60656501907207,0.0,26.163939011443244
+Tim David,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vishnu Vinod,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,56.0,58.0,6.0,3.0,3.0,96.55172413793103,9.333333333333334,10.344827586206897,9.011494252873565,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.274589758260966,0.0,5.564753854956579
+Arjun Tendulkar,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,13.0,9.0,1.0,0.0,1.0,144.44444444444443,13.0,11.11111111111111,18.777777777777775,4.0,104.0,83.0,5.0,7.518072289156627,26.0,20.75,2.5641025641025643,19.32600527433545,1.390291464985897,12.151719750595628
+Cameron Green,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shams Mulani,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nehal Wadhera,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jasprit Bumrah,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kumar Kartikeya,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Piyush Chawla,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Madhwal,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,4.0,5.0,1.0,0.0,0.0,80.0,4.0,0.0,3.2,22.0,407.0,279.0,13.0,8.752688172043012,18.5,12.681818181818182,19.819819819819816,3.2934257508926694,10.746577269890984,6.274686358491995
+Jason Behrendorff,UNKNOWN,0.0,Not Mentioned,Mumbai Indians,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mayank Dagar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,198.0,138.0,8.0,8.608695652173912,99.0,69.0,0.3367003367003368,0.0,0.18256352570521883,0.07302541028208753
+Cameron Green,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alzarri Joseph,BOWLER,11.5,GT,Royal Challengers Banglore,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yash Dayal,BOWLER,5.0,GT,Royal Challengers Banglore,0.2,sold,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,878.0,615.0,28.0,8.565853658536586,28.322580645161292,19.838709677419356,18.2422171602126,0.0,9.89117953990251,3.956471815961004
+Lockie Ferguson,BOWLER,2.0,KKR,Royal Challengers Banglore,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tom Curran,ALL-ROUNDER,1.5,Not Mentioned,Royal Challengers Banglore,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saurav Chuahan,BATTER,0.2,Not Mentioned,Royal Challengers Banglore,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swapnil Singh,ALL-ROUNDER,0.2,LSG,Royal Challengers Banglore,0.2,sold,51.0,46.0,9.0,3.0,3.0,110.86956521739131,5.666666666666667,13.043478260869565,6.282608695652175,7.0,238.0,165.0,14.0,8.654545454545454,34.0,23.571428571428573,3.4313725490196076,6.466032894075961,1.8605371075546562,4.623834579467439
+Faf du Plessis,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Glenn Maxwell,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Virat Kohli,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajat Patidar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anuj Rawat,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,318.0,276.0,21.0,26.0,14.0,115.21739130434783,15.142857142857142,14.492753623188406,17.4472049689441,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.956585664319697,0.0,10.773951398591818
+Dinesh Karthik,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suyash Prabhudessai,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Will Jacks,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mahipal Lomror,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karn Sharma,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manoj Bhandage,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vyshak Vijaykumar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Deep,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,19.0,12.0,3.0,2.0,1.0,158.33333333333331,6.333333333333333,25.0,10.027777777777777,8.0,308.0,175.0,8.0,10.56,38.5,21.875,3.463203463203463,10.32054423673831,1.8777962643965362,6.9434450478016005
+Mohammed Siraj,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,109.0,122.0,20.0,10.0,4.0,89.34426229508196,5.45,11.475409836065573,4.869262295081967,96.0,2676.0,2081.0,93.0,7.715521383950024,27.875,21.677083333333332,57.39910313901346,5.011423072023027,31.12257844488609,15.455885221168254
+Reece Topley,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Himanshu Sharma,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajan Kumar,UNKNOWN,0.0,Not Mentioned,Royal Challengers Banglore,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Avesh Khan,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,41.0,25.0,9.0,3.0,3.0,164.0,4.555555555555555,24.0,7.471111111111111,81.0,1909.0,1390.0,62.0,8.240287769784173,23.567901234567902,17.160493827160494,57.2812991094814,7.689234287848022,31.058703489534338,17.03702196852255
+Rovman Powell,BATTER,7.4,DC,Rajasthan Royals,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubham Dubey,BATTER,5.8,Not Mentioned,Rajasthan Royals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nandre Burger,BOWLER,0.5,Not Mentioned,Rajasthan Royals,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tom Kohler-Cadmore,WICKETKEEPER,0.4,Not Mentioned,Rajasthan Royals,0.4,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abid Mushtaq,ALL-ROUNDER,0.2,Not Mentioned,Rajasthan Royals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sanju Samson,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jos Buttler,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shimron Hetmyer,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yashasvi Jaiswal,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dhruv Jurel,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,347.0,237.0,22.0,29.0,16.0,146.41350210970467,15.772727272727273,18.9873417721519,23.09340237821251,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.767626896290963,0.0,14.260576137774578
+Riyan Parag,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Donovan Ferreira,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kunal Rathore,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravichandran Ashwin,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kuldeep Sen,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Navdeep Saini,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,2.0,2.0,1.0,0.0,0.0,100.0,2.0,0.0,2.0,6.0,133.0,76.0,4.0,10.5,22.166666666666668,12.666666666666666,4.511278195488722,2.0583910943079182,2.44607671283233,2.213465341717683
+Prasidh Krishna,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,54.0,73.0,25.0,4.0,0.0,73.97260273972603,2.16,5.47945205479452,1.5978082191780822,153.0,3605.0,2925.0,126.0,7.394871794871795,23.562091503267975,19.11764705882353,108.2246879334258,1.6444571043840794,58.68090537449559,24.459036412428684
+Trent Boult,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yuzvendra Chahal,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adam Zampa,UNKNOWN,0.0,Not Mentioned,Rajasthan Royals,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shahbaz Ahmed,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,536.0,467.0,37.0,28.0,25.0,114.77516059957173,14.486486486486486,11.349036402569594,16.62688813010012,21.0,825.0,549.0,42.0,9.01639344262295,39.285714285714285,26.142857142857142,8.90909090909091,17.11231922652606,4.83063089016009,12.199643891979672
+Pat Cummins,ALL-ROUNDER,20.5,Not Mentioned,Sunrisers Hyderabad,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Travis Head,BATTER,6.8,Not Mentioned,Sunrisers Hyderabad,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jaydev Unadkat,BOWLER,1.6,LSG,Sunrisers Hyderabad,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wanindu Hasaranga,ALL-ROUNDER,1.5,RCB,Sunrisers Hyderabad,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Singh,BOWLER,0.2,CSK,Sunrisers Hyderabad,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,224.0,141.0,7.0,9.53191489361702,44.8,28.2,1.860119047619048,0.0,1.0085819779473584,0.4034327911789434
+Jhathavedh Subramanyan,BOWLER,0.2,Not Mentioned,Sunrisers Hyderabad,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abdul Samad,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,579.0,408.0,39.0,37.0,36.0,141.91176470588235,14.846153846153847,17.892156862745097,21.06843891402715,2.0,108.0,55.0,5.0,11.781818181818181,54.0,27.5,0.6172839506172839,21.683543515801937,0.33469979712623443,13.144006028331656
+Aiden Markram,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Tripathi,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Glenn Phillips,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heinrich Klaasen,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mayank Agarwal,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anmolpreet Singh,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,139.0,117.0,9.0,19.0,3.0,118.80341880341881,15.444444444444445,18.803418803418804,18.348528015194685,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.88422333006804,0.0,11.330533998040822
+Upendra Singh Yadav,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nitish Kumar Reddy,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhishek Sharma,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,1377.0,925.0,61.0,128.0,73.0,148.86486486486484,22.57377049180328,21.72972972972973,33.60441293752769,11.0,380.0,278.0,26.0,8.201438848920862,34.54545454545455,25.272727272727273,5.30701754385965,34.5855121600264,2.8775374663458106,21.902322282554163
+Marco Jansen,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Sundar,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,378.0,341.0,38.0,32.0,9.0,110.85043988269794,9.947368421052632,12.023460410557185,11.026701651489427,39.0,1309.0,1064.0,58.0,7.381578947368421,33.56410256410256,27.28205128205128,19.365928189457602,11.348632239508124,10.500471022599749,11.009367752744772
+Sanvir Singh,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,25.0,22.0,5.0,2.0,1.0,113.63636363636364,5.0,13.636363636363635,5.6818181818181825,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.847701972465677,0.0,3.508621183479406
+Bhuvneshwar Kumar,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+T Natarajan,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,3.0,5.0,2.0,0.0,0.0,60.0,1.5,0.0,0.9,76.0,1900.0,1401.0,61.0,8.137044967880085,25.0,18.43421052631579,50.666666666666664,0.9262759924385631,27.472159348121323,11.544629334711667
+Mayank Markande,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Umran Malik,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,23.0,16.0,5.0,1.0,2.0,143.75,4.6,18.75,6.6125,31.0,732.0,519.0,26.0,8.46242774566474,23.612903225806452,16.741935483870968,21.88069216757741,6.805555555555554,11.86401043174099,8.828937506029728
+Fazalhaq Farooqi,UNKNOWN,0.0,Not Mentioned,Sunrisers Hyderabad,0.0,unsold,3.0,13.0,2.0,0.0,0.0,23.076923076923077,1.5,0.0,0.34615384615384615,6.0,217.0,162.0,7.0,8.037037037037036,36.166666666666664,27.0,2.764976958525346,0.35625999709175504,1.4992083078649767,0.8134393214010437
+Karun Nair,BATTER,0.0,LSG,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Steve Smith,BATTER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Josh Inglis,WICKETKEEPER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kusal Mendis,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Philip Salt,WICKETKEEPER,0.0,DC,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Josh Hazlewood,BOWLER,0.0,RCB,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akeal Hosein,BOWLER,0.0,SRH,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adil Rashid,BOWLER,0.0,SRH,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammad Waqar Salamkheil,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tabraiz Shamsi,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ish Sodhi,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Priyansh Arya,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rohan Kunnummal,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manan Vohra,BATTER,0.0,LSG,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raj Angad Bawa,ALL-ROUNDER,0.0,PBKS,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sarfaraz Khan,ALL-ROUNDER,0.0,DC,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vivrant Sharma,ALL-ROUNDER,0.0,SRH,Unsold,0.2,unsold,69.0,49.0,1.0,9.0,2.0,140.81632653061226,69.0,22.448979591836736,97.16326530612247,0.0,34.0,21.0,2.0,9.714285714285715,999.0,999.0,0.0,100.0,0.0,60.0
+Atit Sheth,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hrithik Shokeen,ALL-ROUNDER,0.0,MI,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Urvil Patel,WICKETKEEPER,0.0,GT,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vishnu Solanki,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ishan Porel,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kuldip Yadav,BOWLER,0.0,RR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Murgan Ashwin,BOWLER,0.0,RR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pulkit Narang,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shiva Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Finn Allen,BATTER,0.0,RCB,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alick Athanaze,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mark Chapman,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Samuel Hain,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Reeza Hendricks,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brandon King,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Colin Munro,BATTER,0.0,Not Mentioned,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rassie Van Der Dussen,BATTER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+James Vince,BATTER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ibrahim Zadran,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Najibullah Zadran,BATTER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sean Abbott,ALL-ROUNDER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashton Agar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wesley Agar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qais Ahamad,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rehan Ahmed,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fabian Allen,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Charith Asalanka,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Michael Bracewell,ALL-ROUNDER,0.0,RCB,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brydon Carse,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ben Cutting,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Matthew Forde,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+George Garton,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jason Holder,ALL-ROUNDER,0.0,RR,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+George Linde,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Keshav Maharaj,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wiaan Mulder,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+James Neesham,ALL-ROUNDER,0.0,Not Mentioned,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jamie Overton,ALL-ROUNDER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Keemo Paul,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dwaine Pretorius,ALL-ROUNDER,0.0,CSK,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daniel Sams,ALL-ROUNDER,0.0,LSG,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dasun Shanaka,ALL-ROUNDER,0.0,GT,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Matthew Short,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Odean Smith,ALL-ROUNDER,0.0,GT,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hanuma Vihari,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sam Billings,WICKETKEEPER,0.0,Not Mentioned,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Johnson Charles,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ben Duckett,WICKETKEEPER,0.0,Not Mentioned,Unsold,2.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Varun Aaron,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fareed Ahmad,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Taskin Ahmed,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dushmanta Chameera,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ben Dwarshuis,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Richard Gleeson,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Matt Henry,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Md Shoriful Islam,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kyle Jamieson,BOWLER,0.0,CSK,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chris Jordan,BOWLER,0.0,MI,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Siddharth Kaul,BOWLER,0.0,RCB,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lahiru Kumara,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Obed Mccoy,BOWLER,0.0,RR,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Riley Meredith,BOWLER,0.0,MI,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tymal Mills,BOWLER,0.0,Not Mentioned,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adam Milne,BOWLER,0.0,CSK,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lance Morris,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Blessing Muzarabani,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Richard Ngarava,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wayne Parnell,BOWLER,0.0,RCB,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ollie Robinson,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+George Scrimshaw,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tim Southee,BOWLER,0.0,KKR,Unsold,1.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Barinder Sran,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Billy Stanlake,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Olly Stone,BOWLER,0.0,Not Mentioned,Unsold,0.75,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oshane Thomas,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Warrier,BOWLER,0.0,MI,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lizaad Williams,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Luke Wood,BOWLER,0.0,Not Mentioned,Unsold,0.5,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dinesh Bana,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajat Dey,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhimanyu Easwaran,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rithik Easwaran,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chirag Gandhi,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nikhil Gangta,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sudip Gharami,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ansh Gosai,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Azim Kazi,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amandeep Khare,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ankit Kumar,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bhupen Lalwani,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pukhraj Mann,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tanmay Mishra,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salman Nizar,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Priyank Panchal,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akshat Raghuwanshi,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ekant Sen,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Subhranshu Senapati,BATTER,0.0,CSK,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Naushad Shaikh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dhruv Shorey,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Himmat Singh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Virat Singh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,15.0,26.0,2.0,1.0,0.0,57.692307692307686,7.5,3.8461538461538463,4.326923076923077,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.453249963646938,0.0,2.6719499781881626
+Shashank Singh,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,423.0,272.0,19.0,33.0,25.0,155.51470588235296,22.263157894736842,21.323529411764707,34.62248452012384,1.0,24.0,19.0,3.0,7.578947368421052,24.0,19.0,0.6944444444444444,35.63330689951834,0.37653727176701374,21.53059904841781
+Sumeet Verma,BATTER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+P.A. Abdul,ALL-ROUNDER,0.0,RR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Murugan Abhishek,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atharva Ankolekar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baba Aparajith,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jass Inder Baidwan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Corbin Bosch,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.3,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Buddhi,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vaisakh Chandran,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Writtick Chatterjee,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raj Chaudhary,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravi Chauhan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashwin Das,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aarya Desai,ALL-ROUNDER,0.0,KKR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vineet Dhankhar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harsh Dubey,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prerit Dutta,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jake Fraser-Mcgurk,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubhang Hegde,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Benny Howell,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.4,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saransh Jain,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Duan Jansen,ALL-ROUNDER,0.0,MI,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammad Kaif,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aman Khan,ALL-ROUNDER,0.0,DC,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohd Arslan Khan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Musheer Khan,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tanush Kotian,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,24.0,32.0,1.0,3.0,0.0,75.0,24.0,9.375,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.525519848771264,0.0,11.115311909262758
+Manvanth Kumar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saurabh Kumar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dev Lakra,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nasir Lone,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kaushik Maity,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Divij Mehra,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mani Sankar Mura Singh,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kamlesh Nagarkoti,ALL-ROUNDER,0.0,DC,Unsold,0.3,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sanjay Pahal,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jitender Pal,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saumy Pandey,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ansh Patel,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sairaj Patil,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pradosh Paul,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubham Singh Pundir,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Atal Rai,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhimanyusingh Rajput,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohit Rathee,ALL-ROUNDER,0.0,PBKS,Unsold,0.2,unsold,1.0,2.0,1.0,0.0,0.0,50.0,1.0,0.0,0.5,0.0,29.0,12.0,1.0,14.5,999.0,999.0,0.0,0.5145977735769796,0.0,0.30875866414618774
+Ninad Rathva,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rohit Rayudu,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aniketh Reddy,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohit Redkar,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jalaj Saxena,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.4,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Sengupta,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suryansh Shedge,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aradhya Shukla,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Utkarsh Singh,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prenelan Subrayen,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravi Teja,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Vashisht,ALL-ROUNDER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Wiese,ALL-ROUNDER,0.0,KKR,Unsold,1.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohit Ahlawat,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+G. Ajitesh,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+L.R. Chethan,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gourav Choudhary,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harvik Desai,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shakir Gandhi,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sumit Ghadigaonkar,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Baba Indrajith,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bhagmender Lather,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anmol Malhotra,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Darshan Misal,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nikhil Naik,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prasad Pawar,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mahesh Pithiya,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+William Salzmann,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bipin Saurabh,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+B.R. Sharath,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+K.L. Shrijith,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Avneesh Sudha,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aditya Tare,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nihal Ullal,WICKETKEEPER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+K.M Asif,BOWLER,0.0,RR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohit Avasthi,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ottneil Baartman,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Basit Bashir,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Waseem Bashir,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sachin Bhosale,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Devendra Singh Bora,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gurnoor Singh Brar,BOWLER,0.0,PBKS,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saurabh Dubey,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mrinmoy Dutta,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vishal Godara,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Money Grewal,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arpit Guleria,BOWLER,0.0,LSG,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mukhtar Hussain,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shamar Joseph,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammed Kaif,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubham Kapse,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Devang Karamta,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kulwant Khejroliya,BOWLER,0.0,KKR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravi Kumar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashwani Kumar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raj Limbani,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kwena Maphaka,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lukman Hussain Meriwala,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Venkatesh Muralidhara,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+William O'Rourke,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rakshan Readdi,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manish Reddy,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Monish Reddy,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akhin Sathar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Divesh Sharma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashok Sharma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhilash Shetty,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Shukla,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manit Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gurjapneet Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Basil Thampi,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,32.0,37.0,7.0,1.0,1.0,86.48648648648648,4.571428571428571,5.405405405405405,3.9536679536679533,26.0,828.0,539.0,25.0,9.217068645640074,31.846153846153847,20.73076923076923,13.607085346215781,4.069097452840363,7.377947701869603,5.392637552452059
+Paul Van Meekeren,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nitin Verma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chris Wood,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gourav Yadav,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lalit Yadav,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,305.0,301.0,21.0,27.0,7.0,101.32890365448506,14.523809523809524,11.295681063122924,14.716816959341877,11.0,419.0,294.0,19.0,8.551020408163264,38.09090909090909,26.727272727272727,4.81304693715195,15.146482482834529,2.609699850146559,10.13176942975934
+Prithvi Raj Yarra,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mujtaba Yousuf,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubham Agrawal,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mustaq Beg,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+K.C Cariappa,BOWLER,0.0,RR,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ganesh Chaudhary,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yuvraj Chudasama,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jasmer Dhankhar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chintal Gandhi,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Allah Ghazanfar,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raghav Goyal,BOWLER,0.0,MI,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shreyas Gurav,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vishu Kashyap,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S Midhun,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,13.0,1.0,12.0,999.0,999.0,0.0,0.0,0.0,0.0
+Izharulhuq Naveed,BOWLER,0.0,Not Mentioned,Unsold,0.3,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bhuwan Rohilla,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Sharma,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,5.0,3.0,2.0,1.0,0.0,166.66666666666669,2.5,33.33333333333333,4.166666666666668,4.0,165.0,114.0,5.0,8.68421052631579,41.25,28.5,1.6161616161616161,4.288314779808164,0.8763049233850502,2.9235108372389185
+Digvesh Singh,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jagadeesha Suchith,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+B. Surya,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pankaj Yadav,BOWLER,0.0,Not Mentioned,Unsold,0.2,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rohit Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dewald Brevis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suryakumar Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ishan Kishan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,2644.0,1991.0,99.0,255.0,119.0,132.79758915118032,26.707070707070706,18.784530386740332,35.466346031890986,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36.50180540984368,0.0,21.90108324590621
+Tilak Varma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,1156.0,830.0,38.0,90.0,58.0,139.27710843373492,30.42105263157895,17.83132530120482,42.36956246036779,0.0,27.0,23.0,4.0,7.043478260869566,999.0,999.0,0.0,43.60656501907207,0.0,26.163939011443244
+Tim David,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vishnu Vinod,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,56.0,58.0,6.0,3.0,3.0,96.55172413793103,9.333333333333334,10.344827586206897,9.011494252873565,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.274589758260966,0.0,5.564753854956579
+Arjun Tendulkar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,13.0,9.0,1.0,0.0,1.0,144.44444444444443,13.0,11.11111111111111,18.777777777777775,4.0,104.0,83.0,5.0,7.518072289156627,26.0,20.75,2.5641025641025643,19.32600527433545,1.390291464985897,12.151719750595628
+Shams Mulani,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nehal Wadhera,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jasprit Bumrah,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kumar Kartikeya,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Piyush Chawla,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Madhwal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,4.0,5.0,1.0,0.0,0.0,80.0,4.0,0.0,3.2,22.0,407.0,279.0,13.0,8.752688172043012,18.5,12.681818181818182,19.819819819819816,3.2934257508926694,10.746577269890984,6.274686358491995
+Jason Behrendorff,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Faf du Plessis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Glenn Maxwell,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Virat Kohli,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajat Patidar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anuj Rawat,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,318.0,276.0,21.0,26.0,14.0,115.21739130434783,15.142857142857142,14.492753623188406,17.4472049689441,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.956585664319697,0.0,10.773951398591818
+Dinesh Karthik,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suyash Prabhudessai,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Will Jacks,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mahipal Lomror,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Karn Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manoj Bhandage,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vyshak Vijaykumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Deep,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,19.0,12.0,3.0,2.0,1.0,158.33333333333331,6.333333333333333,25.0,10.027777777777777,8.0,308.0,175.0,8.0,10.56,38.5,21.875,3.463203463203463,10.32054423673831,1.8777962643965362,6.9434450478016005
+Mohammed Siraj,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,109.0,122.0,20.0,10.0,4.0,89.34426229508196,5.45,11.475409836065573,4.869262295081967,96.0,2676.0,2081.0,93.0,7.715521383950024,27.875,21.677083333333332,57.39910313901346,5.011423072023027,31.12257844488609,15.455885221168254
+Reece Topley,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Himanshu Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajan Kumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Miller,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubman Gill,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,3216.0,2432.0,99.0,310.0,95.0,132.23684210526315,32.484848484848484,16.652960526315788,42.95693779904306,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.211089102144705,0.0,26.526653461286823
+Matthew Wade,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wriddhiman Saha,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kane Williamson,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhinav Manohar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+B. Sai Sudharsan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Darshan Nalkande,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vijay Shankar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jayant Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Tewatia,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammed Shami,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,74.0,82.0,23.0,6.0,2.0,90.2439024390244,3.217391304347826,9.75609756097561,2.903499469777307,144.0,3286.0,2521.0,110.0,7.820706069020231,22.819444444444443,17.506944444444443,105.17346317711504,2.9882687254586853,57.02648959727911,24.603557074186856
+Noor Ahmad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,13.0,18.0,5.0,2.0,0.0,72.22222222222221,2.6,11.11111111111111,1.8777777777777778,24.0,637.0,513.0,23.0,7.450292397660819,26.541666666666668,21.375,15.070643642072213,1.9326005274335454,8.17150901869262,4.428163923937175
+R. Sai Kishore,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rashid Khan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,545.0,355.0,58.0,39.0,38.0,153.52112676056336,9.39655172413793,21.69014084507042,14.425692083535694,157.0,3222.0,2901.0,121.0,6.6639089968976215,20.522292993630572,18.477707006369428,127.50362093937512,14.846858056989054,69.13420641925603,36.561797401895845
+Joshua Little,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohit Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+KL Rahul,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,4689.0,3578.0,122.0,400.0,187.0,131.05086640581328,38.4344262295082,16.405813303521523,50.36864857187365,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.83918882633498,0.0,31.103513295800987
+Quinton de Kock,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nicholas Pooran,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ayush Badoni,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kyle Mayers,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marcus Stoinis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deepak Hooda,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravi Bishnoi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,32.0,52.0,14.0,2.0,0.0,61.53846153846154,2.2857142857142856,3.8461538461538463,1.4065934065934065,68.0,1784.0,1460.0,65.0,7.331506849315069,26.235294117647058,21.470588235294116,43.19880418535127,1.4476596707220521,23.422982215031457,10.237788688445814
+Naveen-ul-Haq,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,18.0,26.0,4.0,2.0,0.0,69.23076923076923,4.5,7.6923076923076925,3.1153846153846154,26.0,571.0,407.0,17.0,8.417690417690418,21.96153846153846,15.653846153846153,19.731465265615878,3.2063399738257954,10.69867022267606,6.203272073365902
+Krunal Pandya,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yudhvir Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,22.0,16.0,4.0,1.0,2.0,137.5,5.5,18.75,7.5625,4.0,116.0,74.0,5.0,9.405405405405405,29.0,18.5,2.2988505747126435,7.783291325351815,1.2464682099873559,5.168562079206032
+Prerak Mankad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yash Thakur,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,663.0,432.0,19.0,9.208333333333334,24.555555555555557,16.0,18.32579185520362,0.0,9.936494882105086,3.9745979528420343
+Amit Mishra,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mark Wood,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mayank Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohsin Khan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,25.0,27.0,5.0,2.0,1.0,92.5925925925926,5.0,11.11111111111111,4.62962962962963,27.0,663.0,507.0,23.0,7.846153846153847,24.555555555555557,18.77777777777778,18.32579185520362,4.764794199786848,9.936494882105086,6.833474472714142
+Abdul Samad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,579.0,408.0,39.0,37.0,36.0,141.91176470588235,14.846153846153847,17.892156862745097,21.06843891402715,2.0,108.0,55.0,5.0,11.781818181818181,54.0,27.5,0.6172839506172839,21.683543515801937,0.33469979712623443,13.144006028331656
+Aiden Markram,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahul Tripathi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Glenn Phillips,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Heinrich Klaasen,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mayank Agarwal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anmolpreet Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,139.0,117.0,9.0,19.0,3.0,118.80341880341881,15.444444444444445,18.803418803418804,18.348528015194685,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.88422333006804,0.0,11.330533998040822
+Upendra Singh Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nitish Kumar Reddy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abhishek Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,1377.0,925.0,61.0,128.0,73.0,148.86486486486484,22.57377049180328,21.72972972972973,33.60441293752769,11.0,380.0,278.0,26.0,8.201438848920862,34.54545454545455,25.272727272727273,5.30701754385965,34.5855121600264,2.8775374663458106,21.902322282554163
+Marco Jansen,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Washington Sundar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,378.0,341.0,38.0,32.0,9.0,110.85043988269794,9.947368421052632,12.023460410557185,11.026701651489427,39.0,1309.0,1064.0,58.0,7.381578947368421,33.56410256410256,27.28205128205128,19.365928189457602,11.348632239508124,10.500471022599749,11.009367752744772
+Sanvir Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,25.0,22.0,5.0,2.0,1.0,113.63636363636364,5.0,13.636363636363635,5.6818181818181825,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.847701972465677,0.0,3.508621183479406
+Bhuvneshwar Kumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+T Natarajan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,3.0,5.0,2.0,0.0,0.0,60.0,1.5,0.0,0.9,76.0,1900.0,1401.0,61.0,8.137044967880085,25.0,18.43421052631579,50.666666666666664,0.9262759924385631,27.472159348121323,11.544629334711667
+Mayank Markande,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Umran Malik,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,23.0,16.0,5.0,1.0,2.0,143.75,4.6,18.75,6.6125,31.0,732.0,519.0,26.0,8.46242774566474,23.612903225806452,16.741935483870968,21.88069216757741,6.805555555555554,11.86401043174099,8.828937506029728
+Fazalhaq Farooqi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,3.0,13.0,2.0,0.0,0.0,23.076923076923077,1.5,0.0,0.34615384615384615,6.0,217.0,162.0,7.0,8.037037037037036,36.166666666666664,27.0,2.764976958525346,0.35625999709175504,1.4992083078649767,0.8134393214010437
+Nitish Rana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rinku Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rahmanullah Gurbaz,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,289.0,228.0,13.0,24.0,19.0,126.75438596491229,22.23076923076923,18.859649122807017,28.17847503373819,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.00116103031235,0.0,17.40069661818741
+Shreyas Iyer,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jason Roy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunil Narine,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Suyash Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,366.0,264.0,13.0,8.318181818181818,33.27272727272727,24.0,5.510018214936248,0.0,2.98760720549565,1.19504288219826
+Anukul Roy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Andre Russell,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Venkatesh Iyer,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harshit Rana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,2.0,3.0,3.0,0.0,0.0,66.66666666666666,0.6666666666666666,0.0,0.44444444444444436,27.0,563.0,403.0,19.0,8.38213399503722,20.85185185185185,14.925925925925926,21.580817051509772,0.4574202431795372,11.701414044113097,4.955017763552961
+Vaibhav Arora,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Varun Chakaravarthy,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shikhar Dhawan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liam Livingstone,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jonny Bairstow,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gurnoor Singh Brar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jitesh Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,2.0,3.0,1.0,0.0,0.0,66.66666666666666,2.0,0.0,1.333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3722607295386118,0.0,0.823356437723167
+Rahul Chahar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prabhsimran Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Matthew Short,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arshdeep Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,29.0,42.0,11.0,4.0,0.0,69.04761904761905,2.6363636363636362,9.523809523809524,1.8203463203463204,84.0,1958.0,1453.0,65.0,8.08534067446662,23.30952380952381,17.297619047619047,60.061287027579176,1.873492327178527,32.56605094489948,14.150515774266909
+Harpreet Bhatia,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harpreet Brar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,233.0,201.0,24.0,19.0,9.0,115.92039800995025,9.708333333333334,13.930348258706468,11.253938640132672,25.0,875.0,692.0,39.0,7.586705202312139,35.0,27.68,11.904761904761905,11.582503536368428,6.454924658863092,9.531471985366293
+Atharva Taide,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,247.0,177.0,9.0,27.0,8.0,139.54802259887003,27.444444444444443,19.774011299435028,38.29817953546766,0.0,4.0,1.0,1.0,24.0,999.0,999.0,0.0,39.41631584200619,0.0,23.649789505203714
+Vidwath Kaverappa,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rishi Dhawan,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kagiso Rabada,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sam Curran,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nathan Ellis,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sikandar Raza,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,182.0,143.0,9.0,12.0,8.0,127.27272727272727,20.22222222222222,13.986013986013987,25.737373737373737,3.0,133.0,88.0,7.0,9.068181818181818,44.333333333333336,29.333333333333332,1.1278195488721805,26.4887904459423,0.6115191782080825,16.13788193884861
+Sanju Samson,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jos Buttler,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shimron Hetmyer,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yashasvi Jaiswal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dhruv Jurel,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,347.0,237.0,22.0,29.0,16.0,146.41350210970467,15.772727272727273,18.9873417721519,23.09340237821251,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.767626896290963,0.0,14.260576137774578
+Riyan Parag,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Donovan Ferreira,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kunal Rathore,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravichandran Ashwin,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kuldeep Sen,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Navdeep Saini,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,2.0,2.0,1.0,0.0,0.0,100.0,2.0,0.0,2.0,6.0,133.0,76.0,4.0,10.5,22.166666666666668,12.666666666666666,4.511278195488722,2.0583910943079182,2.44607671283233,2.213465341717683
+Prasidh Krishna,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandeep Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,54.0,73.0,25.0,4.0,0.0,73.97260273972603,2.16,5.47945205479452,1.5978082191780822,153.0,3605.0,2925.0,126.0,7.394871794871795,23.562091503267975,19.11764705882353,108.2246879334258,1.6444571043840794,58.68090537449559,24.459036412428684
+Trent Boult,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yuzvendra Chahal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Adam Zampa,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rishabh Pant,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pravin Dubey,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Warner,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Vicky Ostwal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prithvi Shaw,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anrich Nortje,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abishek Porel,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,360.0,244.0,16.0,37.0,15.0,147.54098360655738,22.5,21.311475409836063,33.19672131147541,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.16591775388142,0.0,20.499550652328853
+Kuldeep Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,183.0,224.0,32.0,16.0,3.0,81.69642857142857,5.71875,8.482142857142858,4.672014508928571,90.0,2339.0,1786.0,82.0,7.8577827547592385,25.988888888888887,19.844444444444445,57.71697306541257,4.808416528827976,31.29493186468896,15.403022663172369
+Axar Patel,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lungi Ngidi,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lalit Yadav,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,305.0,301.0,21.0,27.0,7.0,101.32890365448506,14.523809523809524,11.295681063122924,14.716816959341877,11.0,419.0,294.0,19.0,8.551020408163264,38.09090909090909,26.727272727272727,4.81304693715195,15.146482482834529,2.609699850146559,10.13176942975934
+Khaleel Ahmed,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mitchell Marsh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ishant Sharma,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yash Dhull,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mukesh Kumar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,10.0,20.0,5.0,0.0,0.0,50.0,2.0,0.0,1.0,31.0,673.0,420.0,20.0,9.614285714285714,21.70967741935484,13.548387096774194,23.798910351659238,1.0291955471539591,12.904094555771776,5.7791551506010865
+MS Dhoni,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,5243.0,3947.0,228.0,363.0,252.0,132.8350646060299,22.99561403508772,15.581454269065112,30.546238760062053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.438052914157538,0.0,18.86283174849452
+Moeen Ali,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Deepak Chahar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Devon Conway,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tushar Deshpande,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Dube,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ruturaj Gaikwad,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rajvardhan Hangargekar,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ravindra Jadeja,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ajay Mandal,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mukesh Choudhary,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,6.0,6.0,2.0,1.0,0.0,100.0,3.0,16.666666666666664,3.0,16.0,432.0,298.0,14.0,8.697986577181208,27.0,18.625,9.876543209876543,3.0875866414618773,5.355196754019751,3.994630686485027
+Matheesha Pathirana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ajinkya Rahane,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shaik Rasheed,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mitchell Santner,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Simarjeet Singh,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,7.0,8.0,3.0,0.0,0.0,87.5,2.3333333333333335,0.0,2.041666666666667,10.0,242.0,193.0,10.0,7.523316062176166,24.2,19.3,6.887052341597795,2.1012742421060002,3.7342539348794745,2.75446611921539
+Nishant Sindhu,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prashant Solanki,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Maheesh Theekshana,UNKNOWN,0.0,Not Mentioned,Unsold,0.0,unsold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

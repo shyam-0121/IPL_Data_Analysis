@@ -1,0 +1,73 @@
+player,role,sold_price_cr,2023_squad,team,base_price_cr,status,total_runs,total_balls,innings_count,fours,sixes,strike_rate,batting_avg,boundary_pct,batting_consistency_score,wickets,runs_conceded,balls_bowled,innings_bowled,economy_rate,bowling_avg,bowling_sr,bowling_value_score,batting_score_norm,bowling_score_norm,value_index
+Spencer Johnson,BOWLER,10.0,Not Mentioned,Gujrat Titans,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shahrukh Khan,ALL-ROUNDER,7.4,PBKS,Gujrat Titans,0.4,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Umesh Yadav,BOWLER,5.8,KKR,Gujrat Titans,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Robin Minz,WICKETKEEPER,3.6,Not Mentioned,Gujrat Titans,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sushant Mishra,BOWLER,2.2,Not Mentioned,Gujrat Titans,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kartik Tyagi,BOWLER,0.6,SRH,Gujrat Titans,0.2,sold,13.0,16.0,6.0,1.0,0.0,81.25,2.1666666666666665,6.25,1.7604166666666665,16.0,675.0,458.0,20.0,8.842794759825328,42.1875,28.625,6.320987654320987,1.8118129944689487,3.4273259225726402,2.4580181657104254
+Azmatullah Omarzai,ALL-ROUNDER,0.5,Not Mentioned,Gujrat Titans,0.5,sold,42.0,34.0,4.0,2.0,2.0,123.52941176470588,10.5,11.76470588235294,12.970588235294118,4.0,181.0,131.0,7.0,8.290076335877863,45.25,32.75,1.4732965009208103,13.349271655732235,0.7988415047432779,8.329099595336652
+Manav Suthar,BOWLER,0.2,Not Mentioned,Gujrat Titans,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Daryl Mitchell,ALL-ROUNDER,14.0,Not Mentioned,Chennai Super Kings,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sameer Rizvi,BATTER,8.4,Not Mentioned,Chennai Super Kings,0.2,sold,51.0,43.0,5.0,4.0,2.0,118.6046511627907,10.2,13.953488372093023,12.097674418604651,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.450872642546267,0.0,7.47052358552776
+Shardul Thakur,ALL-ROUNDER,4.0,KKR,Chennai Super Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mustafizur Rahman,BOWLER,2.0,DC,Chennai Super Kings,2.0,sold,13.0,23.0,6.0,0.0,1.0,56.52173913043478,2.1666666666666665,4.3478260869565215,1.2246376811594202,70.0,1703.0,1353.0,57.0,7.552106430155211,24.32857142857143,19.32857142857143,47.95458993932276,1.2603916483262252,26.001634268820204,11.156888696523817
+Rachin Ravindra,ALL-ROUNDER,1.8,Not Mentioned,Chennai Super Kings,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Avanish Rao Aravelly,WICKETKEEPER,0.2,Not Mentioned,Chennai Super Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kumar Kushagra,WICKETKEEPER,7.2,Not Mentioned,Delhi Capitals,0.2,sold,3.0,7.0,3.0,0.0,0.0,42.857142857142854,1.0,0.0,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4410838059231253,0.0,0.26465028355387515
+Jhye Richardson,BOWLER,5.0,Not Mentioned,Delhi Capitals,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harry Brook,BATTER,4.0,SRH,Delhi Capitals,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sumit Kumar,ALL-ROUNDER,1.0,Not Mentioned,Delhi Capitals,0.2,sold,18.0,26.0,3.0,2.0,1.0,69.23076923076923,6.0,11.538461538461538,4.153846153846153,0.0,36.0,22.0,2.0,9.818181818181818,999.0,999.0,0.0,4.2751199651010605,0.0,2.565071979060636
+Shai Hope,WICKETKEEPER,0.75,Not Mentioned,Delhi Capitals,0.75,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tristan Stubbs,WICKETKEEPER,0.5,MI,Delhi Capitals,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ricky Bhui,WICKETKEEPER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rasikh Dar,BOWLER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swastik Chhikara,BATTER,0.2,Not Mentioned,Delhi Capitals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mitchell Starc,BOWLER,24.75,Not Mentioned,Kolkata Night Riders,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mujeeb Rahman,BOWLER,2.0,Not Mentioned,Kolkata Night Riders,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sherfane Rutherford,BATTER,1.5,Not Mentioned,Kolkata Night Riders,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gus Atkinson,BOWLER,1.0,Not Mentioned,Kolkata Night Riders,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manish Pandey,BATTER,0.5,DC,Kolkata Night Riders,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+K.S. Bharat,WICKETKEEPER,0.5,GT,Kolkata Night Riders,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chetan Sakariya,BOWLER,0.5,DC,Kolkata Night Riders,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Angkrish Raghuvanshi,BATTER,0.2,Not Mentioned,Kolkata Night Riders,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ramandeep Singh,ALL-ROUNDER,0.2,MI,Kolkata Night Riders,0.2,sold,170.0,106.0,13.0,8.0,13.0,160.37735849056605,13.076923076923077,19.81132075471698,20.972423802612482,6.0,58.0,45.0,4.0,7.733333333333334,9.666666666666666,7.5,10.344827586206895,21.584725190674465,5.6091069449431,15.194477892381919
+Sakib Hussain,BOWLER,0.2,Not Mentioned,Kolkata Night Riders,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Harshal Patel,ALL-ROUNDER,11.75,RCB,Punjab Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rilee Rossouw,BATTER,8.0,DC,Punjab Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chris Woakes,ALL-ROUNDER,4.2,Not Mentioned,Punjab Kings,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashutosh Sharma,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,189.0,118.0,9.0,10.0,15.0,160.16949152542372,21.0,21.1864406779661,33.63559322033898,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.61760276825478,0.0,20.770561660952865
+Vishwanath Pratap Singh,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shashank Singh,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,423.0,272.0,19.0,33.0,25.0,155.51470588235296,22.263157894736842,21.323529411764707,34.62248452012384,1.0,24.0,19.0,3.0,7.578947368421052,24.0,19.0,0.6944444444444444,35.63330689951834,0.37653727176701374,21.53059904841781
+Tanay Thyagarajann,ALL-ROUNDER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Prince Choudhary,BOWLER,0.2,Not Mentioned,Punjab Kings,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivam Mavi,BOWLER,6.4,GT,Lucknow Super Giants,0.5,sold,51.0,58.0,11.0,4.0,2.0,87.93103448275862,4.636363636363637,10.344827586206897,4.076802507836991,33.0,903.0,687.0,32.0,7.886462882096071,27.363636363636363,20.818181818181817,20.099667774086377,4.195826987691924,10.898314656592104,6.8768220552519965
+M. Siddharth,BOWLER,2.4,Not Mentioned,Lucknow Super Giants,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+David Willey,ALL-ROUNDER,2.0,RCB,Lucknow Super Giants,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ashton Turner,BATTER,1.0,Not Mentioned,Lucknow Super Giants,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohd. Arshad Khan,ALL-ROUNDER,0.2,MI,Lucknow Super Giants,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arshin Kulkarni,ALL-ROUNDER,0.2,Not Mentioned,Lucknow Super Giants,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Gerald Coetzee,ALL-ROUNDER,5.0,Not Mentioned,Mumbai Indians,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nuwan Thushara,BOWLER,4.8,Not Mentioned,Mumbai Indians,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mohammad Nabi,ALL-ROUNDER,1.5,Not Mentioned,Mumbai Indians,1.5,sold,221.0,157.0,19.0,18.0,12.0,140.76433121019107,11.631578947368421,19.10828025477707,16.373114314448543,15.0,514.0,419.0,23.0,7.360381861575179,34.266666666666666,27.933333333333334,7.2957198443579765,16.851136345473186,3.955839041910261,11.693017424048017
+Shreyas Gopal,BOWLER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Naman Dhir,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,140.0,84.0,7.0,12.0,10.0,166.66666666666669,20.0,26.190476190476193,33.33333333333334,0.0,54.0,29.0,3.0,11.172413793103448,999.0,999.0,0.0,34.30651823846531,0.0,20.583910943079186
+Anshul Kamboj,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shivalik Sharma,ALL-ROUNDER,0.2,Not Mentioned,Mumbai Indians,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dilshan Madushanka,BOWLER,4.6,Not Mentioned,Mumbai Indians,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alzarri Joseph,BOWLER,11.5,GT,Royal Challengers Banglore,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Yash Dayal,BOWLER,5.0,GT,Royal Challengers Banglore,0.2,sold,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,878.0,615.0,28.0,8.565853658536586,28.322580645161292,19.838709677419356,18.2422171602126,0.0,9.89117953990251,3.956471815961004
+Lockie Ferguson,BOWLER,2.0,KKR,Royal Challengers Banglore,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tom Curran,ALL-ROUNDER,1.5,Not Mentioned,Royal Challengers Banglore,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Saurav Chuahan,BATTER,0.2,Not Mentioned,Royal Challengers Banglore,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Swapnil Singh,ALL-ROUNDER,0.2,LSG,Royal Challengers Banglore,0.2,sold,51.0,46.0,9.0,3.0,3.0,110.86956521739131,5.666666666666667,13.043478260869565,6.282608695652175,7.0,238.0,165.0,14.0,8.654545454545454,34.0,23.571428571428573,3.4313725490196076,6.466032894075961,1.8605371075546562,4.623834579467439
+Rovman Powell,BATTER,7.4,DC,Rajasthan Royals,1.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Shubham Dubey,BATTER,5.8,Not Mentioned,Rajasthan Royals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nandre Burger,BOWLER,0.5,Not Mentioned,Rajasthan Royals,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tom Kohler-Cadmore,WICKETKEEPER,0.4,Not Mentioned,Rajasthan Royals,0.4,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Abid Mushtaq,ALL-ROUNDER,0.2,Not Mentioned,Rajasthan Royals,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pat Cummins,ALL-ROUNDER,20.5,Not Mentioned,Sunrisers Hyderabad,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Travis Head,BATTER,6.8,Not Mentioned,Sunrisers Hyderabad,2.0,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Jaydev Unadkat,BOWLER,1.6,LSG,Sunrisers Hyderabad,0.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wanindu Hasaranga,ALL-ROUNDER,1.5,RCB,Sunrisers Hyderabad,1.5,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Akash Singh,BOWLER,0.2,CSK,Sunrisers Hyderabad,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,224.0,141.0,7.0,9.53191489361702,44.8,28.2,1.860119047619048,0.0,1.0085819779473584,0.4034327911789434
+Jhathavedh Subramanyan,BOWLER,0.2,Not Mentioned,Sunrisers Hyderabad,0.2,sold,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
